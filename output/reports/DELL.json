@@ -1,0 +1,263 @@
+{
+  "ticker": "DELL",
+  "name": "Dell Technologies Inc.",
+  "price": 468.99,
+  "market_cap": 274610531900.0,
+  "gap_pct": 10.350588235294111,
+  "direction": "LONG",
+  "setup": "GAP & GO LONG",
+  "state": "ARMED",
+  "score": 77.2,
+  "long_score": 77.2,
+  "short_score": 45.4,
+  "score_margin": 31.800000000000004,
+  "score_breakdown": {
+    "market": 5.0,
+    "sector": 3.0,
+    "technical": 22.0,
+    "volume": 19.0,
+    "relative_strength": 4.7,
+    "event_news": 10,
+    "livermore": 13.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 09:19 ET",
+  "discovered_by": [
+    "FORCED_TICKER",
+    "GAP_UP"
+  ],
+  "pm_volume": 955010.591496,
+  "pm_volume_state": "STRONG",
+  "runtime_rvol": 15.832935360810296,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 93.26718570268311,
+  "vwap": 463.03463439833627,
+  "distance_from_vwap_pct": 1.2861598591652035,
+  "pm_high": 469.69,
+  "pm_low": 455.0,
+  "prior_pm_high": 467.98,
+  "prior_pm_low": 455.0,
+  "atr14": 24.200807142857148,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.5,
+    "spy_current_change_pct": 0.028879729055636443,
+    "qqq_current_change_pct": -0.1554462721157683,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.2668263994772275,
+    "current_vs_spy": -0.295706128532864,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 425.0,
+      "sma10": 433.64,
+      "sma30": 304.81,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 425.0,
+      "close": 425.0,
+      "sma20": 457.184,
+      "sma50": 434.22360000000003,
+      "sma200": 247.73845,
+      "ema20": 449.06875891161224,
+      "atr14": 24.200807142857148,
+      "ret5": -5.8693244739756345,
+      "ret20": -9.04616174802576,
+      "prior20_high": 514.0,
+      "prior20_low": 416.3,
+      "high52w": 514.0,
+      "low52w": 110.22,
+      "prev_high": 463.0,
+      "prev_low": 421.8901,
+      "prev_close": 425.0,
+      "current_price": 468.99,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 468.99,
+      "ema20": 455.53586188278246,
+      "sma50": 454.222812,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BULLISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 10.321708506238474,
+    "current_vs_sector": 10.61741463477134,
+    "stock_vs_spy_5d": -5.330096627361803,
+    "stock_vs_spy_20d": -7.808040580691411,
+    "stock_vs_sector_5d": -6.914774017279246,
+    "stock_vs_sector_20d": -7.301913486923561
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Dell Reports Record Results: AI Momentum Remains Robust",
+        "published_utc": "2026-09-01T22:25:00Z",
+        "url": "https://www.zacks.com/commentary/2983448/dell-reports-record-results-ai-momentum-remains-robust?cid=CS-ZC-FT-investment_ideas-2983448",
+        "age_hours": 15.2
+      },
+      {
+        "title": "Stock Market Midday, Sept. 1: Stocks Slide on Global Bond Sell-Off",
+        "published_utc": "2026-09-01T16:24:45Z",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-midday-sept-1-stocks-slide-on-global-bond-sell-off/?source=iedfolrf0000001",
+        "age_hours": 21.2
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: Salesforce, Cisco, Dell, Uber and Robinhood",
+        "published_utc": "2026-08-31T15:15:00Z",
+        "url": "https://www.zacks.com/stock/news/2982722/zacks-investment-ideas-feature-highlights-salesforce-cisco-dell-uber-and-robinhood?cid=CS-ZC-FT-press_releases-2982722",
+        "age_hours": 46.3
+      },
+      {
+        "title": "Dell's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why.",
+        "published_utc": "2026-08-31T14:32:01Z",
+        "url": "https://www.fool.com/investing/2026/08/31/dells-next-earnings-report-on-september-1-could-send-the-stock-soaring-heres-why/?source=iedfolrf0000001",
+        "age_hours": 47.1
+      }
+    ],
+    "reaction": "POSITIVE_NEWS_ACCEPTED"
+  },
+  "livermore": {
+    "score": 13.5,
+    "pivot": 467.98,
+    "pivot_confirmed": true,
+    "progress_from_pivot_pct": 0.21582118893970215,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Price has crossed a meaningful pivot; thesis is price-confirmed",
+      "Volume confirms participation",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Sector fights the thesis"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 467.98,
+    "aggressive_trigger": 468.44798,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 471.6101210714286,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 460.6145536840506,
+    "invalidation": 463.03463439833627,
+    "target_1r": 476.28140631594937,
+    "target_2r": 484.11483263189876,
+    "add_reference": 480.0804035714286,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 56.8,
+      "trigger": "Holds/clears 467.98"
+    },
+    "neutral": {
+      "probability_pct": 34.1,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 9.1,
+      "trigger": "Loses 463.03"
+    }
+  },
+  "next_trigger": "Watch for continued participation while price respects invalidation near $463.03.",
+  "why": [
+    "Gap Up +10.35% triggered discovery",
+    "Discovery channels: FORCED_TICKER, GAP_UP",
+    "Premarket participation: STRONG (955,011 shares)",
+    "PREMARKET same-time RVOL 15.8x",
+    "Recent 5m volume 93.3x normal",
+    "Weekly/Daily/4H: BULLISH/BULLISH/BULLISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=POSITIVE_NEWS_ACCEPTED",
+    "Livermore price-confirmation rule: pivot is confirmed"
+  ],
+  "risks": [
+    "Sector fights the thesis"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

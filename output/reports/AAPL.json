@@ -1,0 +1,267 @@
+{
+  "ticker": "AAPL",
+  "name": "Apple Inc.",
+  "price": 326.54,
+  "market_cap": 4745005743400.0,
+  "gap_pct": 0.4336726847722572,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 54.8,
+  "long_score": 54.8,
+  "short_score": 20.2,
+  "score_margin": 34.599999999999994,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 22.0,
+    "volume": 2.5,
+    "relative_strength": 8.2,
+    "event_news": 3.3,
+    "livermore": 12.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 200563.817903,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.6013844005444438,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 1.9812747681741147,
+  "vwap": 325.4428621438009,
+  "distance_from_vwap_pct": 0.3371214992923477,
+  "pm_high": 326.57,
+  "pm_low": 324.45,
+  "prior_pm_high": 326.35,
+  "prior_pm_low": 324.45,
+  "atr14": 6.661121428571428,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 325.13,
+      "sma10": 317.306,
+      "sma30": 289.8163333333333,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 325.13,
+      "close": 325.13,
+      "sma20": 311.32,
+      "sma50": 312.93919999999997,
+      "sma200": 283.06845,
+      "ema20": 314.35407183920177,
+      "atr14": 6.661121428571428,
+      "ret5": 4.914488544691853,
+      "ret20": 5.0908268149201685,
+      "prior20_high": 327.3,
+      "prior20_low": 300.57,
+      "high52w": 344.5699,
+      "low52w": 225.95,
+      "prev_high": 327.3,
+      "prev_low": 314.73,
+      "prev_close": 325.13,
+      "current_price": 326.54,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 326.54,
+      "ema20": 318.8319546738796,
+      "sma50": 313.501712,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BULLISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 0.48486856809815,
+    "current_vs_sector": 0.8311895656260961,
+    "stock_vs_spy_5d": 5.453716391305685,
+    "stock_vs_spy_20d": 6.328947982254518,
+    "stock_vs_sector_5d": 3.8690390013882414,
+    "stock_vs_sector_20d": 6.835075076022368
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should iShares S&P 500 Value ETF (IVE) Be on Your Investing Radar?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983502/should-ishares-s-p-500-value-etf-ive-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2983502",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Should JLens 500 Jewish Advocacy U.S. ETF (TOV) Be on Your Investing Radar?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983505/should-jlens-500-jewish-advocacy-u-s-etf-tov-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2983505",
+        "age_hours": 1.9
+      },
+      {
+        "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
+        "published_utc": "2026-09-02T10:15:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/with-tim-cooks-era-ending-is-apple-stock-a-buy-und/?source=iedfolrf0000001",
+        "age_hours": 2.0
+      },
+      {
+        "title": "Company News for Sep 2, 2026",
+        "published_utc": "2026-09-02T10:10:00Z",
+        "url": "https://www.zacks.com/stock/news/2983493/company-news-for-sep-2-2026?cid=CS-ZC-FT-corporate_summary-2983493",
+        "age_hours": 2.1
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "published_utc": "2026-09-02T09:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/?source=iedfolrf0000001",
+        "age_hours": 3.1
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 12.0,
+    "pivot": 326.35,
+    "pivot_confirmed": true,
+    "progress_from_pivot_pct": 0.05821970277308797,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Price has crossed a meaningful pivot; thesis is price-confirmed",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 326.35,
+    "aggressive_trigger": 326.67635,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 327.3491682142857,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 324.77675000094376,
+    "invalidation": 325.4428621438009,
+    "target_1r": 328.57594999905626,
+    "target_2r": 330.4755499981125,
+    "add_reference": 329.6805607142857,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 38.8,
+      "trigger": "Holds/clears 326.35"
+    },
+    "neutral": {
+      "probability_pct": 43.1,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 18.1,
+      "trigger": "Loses 325.44"
+    }
+  },
+  "next_trigger": "Watch for continued participation while price respects invalidation near $325.44.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (200,564 shares)",
+    "PREMARKET same-time RVOL 0.6x",
+    "Weekly/Daily/4H: BULLISH/BULLISH/BULLISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR",
+    "Livermore price-confirmation rule: pivot is confirmed"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

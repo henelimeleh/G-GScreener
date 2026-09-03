@@ -1,0 +1,252 @@
+{
+  "ticker": "NBIS",
+  "name": "Nebius Group N.V. Class A Ordinary Shares",
+  "price": 196.2,
+  "market_cap": 54245990199.72,
+  "gap_pct": -1.673849854665732,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 31.6,
+  "long_score": 20.7,
+  "short_score": 31.6,
+  "score_margin": 10.900000000000002,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 1.0,
+    "technical": 9.2,
+    "volume": 1.0,
+    "relative_strength": 9.1,
+    "event_news": 2.6,
+    "livermore": 2.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 241406.538944,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.39570688086766187,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.8568882424600683,
+  "vwap": 195.00984683004492,
+  "distance_from_vwap_pct": 0.6103041406890108,
+  "pm_high": 197.51,
+  "pm_low": 193.1201,
+  "prior_pm_high": 197.51,
+  "prior_pm_low": 193.1201,
+  "atr14": 17.402807142857146,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Broad / Unmapped",
+    "available": true,
+    "etf": "SPY",
+    "trend": "NEUTRAL",
+    "ret5": -0.5392278466138323,
+    "ret20": -1.2381211673343495,
+    "vs_spy_5d": 0.0,
+    "vs_spy_20d": 0.0,
+    "current_change_pct": -0.05119588332589283,
+    "current_vs_spy": 0.0,
+    "metrics": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 199.54,
+      "sma10": 208.46599999999998,
+      "sma30": 177.83633333333333,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 199.54,
+      "close": 199.54,
+      "sma20": 221.34250000000003,
+      "sma50": 216.0866,
+      "sma200": 152.873525,
+      "ema20": 216.5813179916595,
+      "atr14": 17.402807142857146,
+      "ret5": -10.104969139973875,
+      "ret20": -11.606272703109777,
+      "prior20_high": 280.83,
+      "prior20_low": 180.6307,
+      "high52w": 299.86,
+      "low52w": 63.26,
+      "prev_high": 202.8075,
+      "prev_low": 194.8,
+      "prev_close": 199.54,
+      "current_price": 196.2,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 196.2,
+      "ema20": 207.77567215533503,
+      "sma50": 224.15666000000002,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.6226539713398394,
+    "current_vs_sector": -1.6226539713398394,
+    "stock_vs_spy_5d": -9.565741293360043,
+    "stock_vs_spy_20d": -10.368151535775429,
+    "stock_vs_sector_5d": -9.565741293360043,
+    "stock_vs_sector_20d": -10.368151535775429
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now",
+        "published_utc": "2026-09-01T14:15:01Z",
+        "url": "https://www.fool.com/investing/2026/09/01/nebius-vs-coreweave-which-is-the-better-artificial-intelligence-ai-infrastructure-stock-to-buy-right-now/?source=iedfolrf0000001",
+        "age_hours": 22.0
+      },
+      {
+        "title": "Is Rescale's Cloud Expansion Another Catalyst for CRWV's AI Growth?",
+        "published_utc": "2026-08-31T13:17:00Z",
+        "url": "https://www.zacks.com/stock/news/2982405/is-rescale-s-cloud-expansion-another-catalyst-for-crwv-s-ai-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2982405",
+        "age_hours": 46.9
+      },
+      {
+        "title": "Are The \"Magnificent Seven\" Stocks Still Worth Buying?",
+        "published_utc": "2026-08-31T10:15:00Z",
+        "url": "https://www.fool.com/investing/2026/08/31/are-the-magnificent-seven-stocks-still-worth-buyin/?source=iedfolrf0000001",
+        "age_hours": 50.0
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 2.5,
+    "pivot": 193.1201,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [],
+    "warnings": [
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 193.1201,
+    "aggressive_trigger": 192.92697990000002,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 190.50967892857145,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 196.75012754433064,
+    "invalidation": 195.00984683004492,
+    "target_1r": 189.1038322556694,
+    "target_2r": 185.28068461133878,
+    "add_reference": 184.41869642857145,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 193.12"
+    },
+    "neutral": {
+      "probability_pct": 37.6,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 27.4,
+      "trigger": "Reclaims 195.01"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $193.12 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (241,407 shares)",
+    "PREMARKET same-time RVOL 0.4x",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

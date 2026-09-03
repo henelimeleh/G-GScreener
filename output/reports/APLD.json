@@ -1,0 +1,242 @@
+{
+  "ticker": "APLD",
+  "name": "Applied Digital Corporation Common Stock",
+  "price": 24.0258,
+  "market_cap": 6905739593.48,
+  "gap_pct": -1.087690407575126,
+  "direction": "SHORT",
+  "setup": "PIVOT / BREAKDOWN SHORT",
+  "state": "WATCH",
+  "score": 58.2,
+  "long_score": 22.8,
+  "short_score": 58.2,
+  "score_margin": 35.400000000000006,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 25.0,
+    "volume": 6.0,
+    "relative_strength": 9.1,
+    "event_news": 0.4,
+    "livermore": 6.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "MINUTE_SPIKE_PROXY"
+  ],
+  "pm_volume": 133385.597081,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.8243400700719427,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 6.403422256155113,
+  "vwap": 23.872887720854486,
+  "distance_from_vwap_pct": 0.6405269481158493,
+  "pm_high": 24.13,
+  "pm_low": 23.66,
+  "prior_pm_high": 24.13,
+  "prior_pm_low": 23.66,
+  "atr14": 1.8419285714285718,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 24.29,
+      "sma10": 28.183999999999997,
+      "sma30": 32.374,
+      "trend": "BEARISH"
+    },
+    "daily": {
+      "historical_close": 24.29,
+      "close": 24.29,
+      "sma20": 28.427,
+      "sma50": 30.2921,
+      "sma200": 32.162925,
+      "ema20": 27.79841043042672,
+      "atr14": 1.8419285714285718,
+      "ret5": -15.805892547660317,
+      "ret20": -22.3217141029741,
+      "prior20_high": 33.04,
+      "prior20_low": 24.095,
+      "high52w": 50.725,
+      "low52w": 13.16,
+      "prev_high": 25.085,
+      "prev_low": 24.095,
+      "prev_close": 24.29,
+      "current_price": 24.0258,
+      "trend": "BEARISH"
+    },
+    "four_hour": {
+      "close": 24.0258,
+      "ema20": 25.694294374040144,
+      "sma50": 27.572512000000003,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.0364945242492332,
+    "current_vs_sector": -0.690173526721287,
+    "stock_vs_spy_5d": -15.266664701046485,
+    "stock_vs_spy_20d": -21.08359293563975,
+    "stock_vs_sector_5d": -16.85134209096393,
+    "stock_vs_sector_20d": -20.5774658418719
+  },
+  "news": {
+    "available": true,
+    "catalyst": "NEWS",
+    "sentiment": "POSITIVE",
+    "score": 3.5,
+    "confidence": "LOW",
+    "headlines": [
+      {
+        "title": "United States Data Center Colocation Market Outlook & Forecast 2026-2031 | Renewable Energy Gains Ground Across U.S. Colocation Facilities",
+        "published_utc": "2026-09-01T10:58:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353928/28124/en/united-states-data-center-colocation-market-outlook-forecast-2026-2031-renewable-energy-gains-ground-across-u-s-colocation-facilities.html",
+        "age_hours": 25.3
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 6.5,
+    "pivot": 23.66,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 23.66,
+    "aggressive_trigger": 23.63634,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 23.383710714285716,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 24.057080577997343,
+    "invalidation": 23.872887720854486,
+    "target_1r": 23.215599422002658,
+    "target_2r": 22.794858844005315,
+    "add_reference": 22.739035714285716,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 41.6,
+      "trigger": "Breaks/holds below 23.66"
+    },
+    "neutral": {
+      "probability_pct": 41.7,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 16.7,
+      "trigger": "Reclaims 23.87"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $23.66 with volume participation.",
+  "why": [
+    "Discovery channels: MINUTE_SPIKE_PROXY",
+    "Premarket participation: WATCH (133,386 shares)",
+    "PREMARKET same-time RVOL 0.8x",
+    "Recent 5m volume 6.4x normal",
+    "Weekly/Daily/4H: BEARISH/BEARISH/BEARISH",
+    "Recent catalyst: NEWS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

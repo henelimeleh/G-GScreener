@@ -1,0 +1,248 @@
+{
+  "ticker": "FIGS",
+  "name": "FIGS, Inc.",
+  "price": 14.3017,
+  "market_cap": 2535300092.92,
+  "gap_pct": -6.27981651376146,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 45.1,
+  "long_score": 45.1,
+  "short_score": 33.2,
+  "score_margin": 11.899999999999999,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 1.0,
+    "technical": 17.0,
+    "volume": 6.0,
+    "relative_strength": 6.7,
+    "event_news": 5.1,
+    "livermore": 5.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:26 ET",
+  "discovered_by": [
+    "GAP_DOWN"
+  ],
+  "pm_volume": 714.0,
+  "pm_volume_state": "LOW",
+  "runtime_rvol": 3.336448598130841,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": null,
+  "vwap": 14.413506722689077,
+  "distance_from_vwap_pct": -0.7757079858510485,
+  "pm_high": 15.3917,
+  "pm_low": 14.01,
+  "prior_pm_high": 15.3917,
+  "prior_pm_low": 14.01,
+  "atr14": 0.5915928571428571,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Broad / Unmapped",
+    "available": true,
+    "etf": "SPY",
+    "trend": "NEUTRAL",
+    "ret5": -0.5392278466138323,
+    "ret20": -1.2381211673343495,
+    "vs_spy_5d": 0.0,
+    "vs_spy_20d": 0.0,
+    "current_change_pct": -0.05119588332589283,
+    "current_vs_spy": 0.0,
+    "metrics": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 15.26,
+      "sma10": 12.486,
+      "sma30": 13.145999999999999,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 15.26,
+      "close": 15.26,
+      "sma20": 14.366,
+      "sma50": 11.9564,
+      "sma200": 12.43285,
+      "ema20": 14.186675635793142,
+      "atr14": 0.5915928571428571,
+      "ret5": 3.9509536784741117,
+      "ret20": 40.645161290322584,
+      "prior20_high": 16.38,
+      "prior20_low": 10.73,
+      "high52w": 17.48,
+      "low52w": 6.495,
+      "prev_high": 15.36,
+      "prev_low": 14.96,
+      "prev_close": 15.26,
+      "current_price": 14.3017,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 14.3017,
+      "ema20": 15.089744027235122,
+      "sma50": 14.796554,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -6.228620630435567,
+    "current_vs_sector": -6.228620630435567,
+    "stock_vs_spy_5d": 4.490181525087944,
+    "stock_vs_spy_20d": 41.88328245765693,
+    "stock_vs_sector_5d": 4.490181525087944,
+    "stock_vs_sector_20d": 41.88328245765693
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "MEDIUM",
+    "headlines": [
+      {
+        "title": "Urban Outfitters' Strong Retail Segment Supports Growth Momentum",
+        "published_utc": "2026-08-31T12:20:00Z",
+        "url": "https://www.zacks.com/stock/news/2982340/urban-outfitters-strong-retail-segment-supports-growth-momentum?cid=CS-ZC-FT-analyst_blog|rank_focused-2982340",
+        "age_hours": 47.9
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 5.5,
+    "pivot": 15.3917,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align",
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 15.3917,
+    "aggressive_trigger": 15.407091699999999,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 15.480438928571429,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 14.900840714285716,
+    "invalidation": 14.96,
+    "target_1r": 15.913342685714282,
+    "target_2r": 16.419593671428565,
+    "add_reference": 15.687496428571428,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 15.39"
+    },
+    "neutral": {
+      "probability_pct": 43.0,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 22.0,
+      "trigger": "Loses 14.96"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $15.39 with volume participation.",
+  "why": [
+    "Gap Down -6.28% triggered discovery",
+    "Discovery channels: GAP_DOWN",
+    "Premarket participation: LOW (714 shares)",
+    "PREMARKET same-time RVOL 3.3x",
+    "Weekly/Daily/4H: BULLISH/BULLISH/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP",
+    "Premarket volume is not yet strong (714; state=LOW)",
+    "Chosen long bias fights a large Gap Down; treat as reversal-watch only"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "ticker": "MU",
+  "name": "Micron Technology, Inc.",
+  "price": 929.28,
+  "market_cap": 1054220742869.4401,
+  "gap_pct": -0.4456633527596954,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 36.1,
+  "long_score": 36.1,
+  "short_score": 32.5,
+  "score_margin": 3.6000000000000014,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 8.8,
+    "volume": 3.5,
+    "relative_strength": 4.2,
+    "event_news": 3.3,
+    "livermore": 9.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 383581.268073,
+  "pm_volume_state": "ACTIVE",
+  "runtime_rvol": 0.4650113285672809,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 1.5998707880886498,
+  "vwap": 923.1090851040789,
+  "distance_from_vwap_pct": 0.6684924886450894,
+  "pm_high": 929.4,
+  "pm_low": 918.0,
+  "prior_pm_high": 929.1,
+  "prior_pm_low": 918.0,
+  "atr14": 49.450335714285735,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 933.44,
+      "sma10": 923.01,
+      "sma30": 721.503,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 933.44,
+      "close": 933.44,
+      "sma20": 929.37375,
+      "sma50": 945.9397,
+      "sma200": 595.454025,
+      "ema20": 932.2596029207393,
+      "atr14": 49.450335714285735,
+      "ret5": 0.05037675380774598,
+      "ret20": 4.567197284550861,
+      "prior20_high": 1036.13,
+      "prior20_low": 827.0,
+      "high52w": 1255.0,
+      "low52w": 114.25,
+      "prev_high": 969.44,
+      "prev_low": 922.39,
+      "prev_close": 933.44,
+      "current_price": 929.28,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 929.28,
+      "ema20": 938.0965242270289,
+      "sma50": 947.34756364,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.39446746943380256,
+    "current_vs_sector": -0.04814647190585647,
+    "stock_vs_spy_5d": 0.5896046004215783,
+    "stock_vs_spy_20d": 5.805318451885211,
+    "stock_vs_sector_5d": -0.9950727894958655,
+    "stock_vs_sector_20d": 6.3114455456530605
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should You Invest in the State Street SPDR NYSE Technology ETF (XNTK)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983508/should-you-invest-in-the-state-street-spdr-nyse-technology-etf-xntk?cid=CS-ZC-FT-sector_etf-2983508",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983509/should-you-invest-in-the-ishares-semiconductor-etf-soxx?cid=CS-ZC-FT-sector_etf-2983509",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000)",
+        "published_utc": "2026-09-01T20:03:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/microns-stock-price-by-the-end-of-2027/?source=iedfolrf0000001",
+        "age_hours": 16.2
+      },
+      {
+        "title": "Got $1,000? An Investment in Micron Could Be Worth This Much by 2027. (Hint: It's Over $3,000.)",
+        "published_utc": "2026-09-01T17:29:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/got-1000-an-investment-in-micron-could-be-worth-th/?source=iedfolrf0000001",
+        "age_hours": 18.8
+      },
+      {
+        "title": "Is SK Hynix a Millionaire-Maker Stock?",
+        "published_utc": "2026-09-01T16:23:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/is-sk-hynix-a-millionaire-maker-stock/?source=iedfolrf0000001",
+        "age_hours": 19.9
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 9.5,
+    "pivot": 929.1,
+    "pivot_confirmed": true,
+    "progress_from_pivot_pct": 0.019373587342585985,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Price has crossed a meaningful pivot; thesis is price-confirmed",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 929.1,
+    "aggressive_trigger": 930.0291,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 936.5175503571429,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 918.1640515326503,
+    "invalidation": 923.1090851040789,
+    "target_1r": 941.8941484673496,
+    "target_2r": 953.7591969346993,
+    "add_reference": 953.8251678571429,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 929.10"
+    },
+    "neutral": {
+      "probability_pct": 39.4,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 25.6,
+      "trigger": "Loses 923.11"
+    }
+  },
+  "next_trigger": "Watch for continued participation while price respects invalidation near $923.11.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: ACTIVE (383,581 shares)",
+    "PREMARKET same-time RVOL 0.5x",
+    "Weekly/Daily/4H: BULLISH/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR",
+    "Livermore price-confirmation rule: pivot is confirmed"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Long/short score separation is small (3.6 points); directional conviction is limited"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

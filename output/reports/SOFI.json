@@ -1,0 +1,244 @@
+{
+  "ticker": "SOFI",
+  "name": "SoFi Technologies, Inc. Common Stock",
+  "price": 17.03,
+  "market_cap": 22021274024.2,
+  "gap_pct": -0.11730205278591699,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 54.0,
+  "long_score": 25.6,
+  "short_score": 54.0,
+  "score_margin": 28.4,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 3.0,
+    "technical": 22.0,
+    "volume": 5.0,
+    "relative_strength": 8.7,
+    "event_news": 2.6,
+    "livermore": 6.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "MINUTE_SPIKE_PROXY"
+  ],
+  "pm_volume": 472678.987297,
+  "pm_volume_state": "ACTIVE",
+  "runtime_rvol": 1.3309327582651567,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 2.305975552399296,
+  "vwap": 16.95467306056469,
+  "distance_from_vwap_pct": 0.4442842345955711,
+  "pm_high": 17.1,
+  "pm_low": 16.89,
+  "prior_pm_high": 17.1,
+  "prior_pm_low": 16.89,
+  "atr14": 0.8664285714285705,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Financials",
+    "available": true,
+    "etf": "XLF",
+    "trend": "NEUTRAL",
+    "ret5": -1.9036185902932545,
+    "ret20": -1.1748445058742174,
+    "vs_spy_5d": -1.3643907436794223,
+    "vs_spy_20d": 0.06327666146013211,
+    "current_change_pct": 0.27972027972027375,
+    "current_vs_spy": 0.33091616304616656,
+    "metrics": {
+      "historical_close": 57.2,
+      "close": 57.2,
+      "sma20": 57.81849999999999,
+      "sma50": 56.593,
+      "sma200": 53.4005,
+      "ema20": 57.60883430328151,
+      "atr14": 0.5893214285714288,
+      "ret5": -1.9036185902932545,
+      "ret20": -1.1748445058742174,
+      "prior20_high": 58.41,
+      "prior20_low": 56.91,
+      "high52w": 58.41,
+      "low52w": 47.67,
+      "prev_high": 57.98,
+      "prev_low": 57.13,
+      "prev_close": 57.2,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 17.05,
+      "sma10": 17.776,
+      "sma30": 17.430333333333333,
+      "trend": "BEARISH"
+    },
+    "daily": {
+      "historical_close": 17.05,
+      "close": 17.05,
+      "sma20": 18.247999999999998,
+      "sma50": 17.8278,
+      "sma200": 20.113625,
+      "ema20": 18.09503751355716,
+      "atr14": 0.8664285714285705,
+      "ret5": -10.26315789473684,
+      "ret20": -8.823529411764696,
+      "prior20_high": 19.495,
+      "prior20_low": 16.98,
+      "high52w": 32.73,
+      "low52w": 14.88,
+      "prev_high": 17.66,
+      "prev_low": 16.98,
+      "prev_close": 17.05,
+      "current_price": 17.03,
+      "trend": "BEARISH"
+    },
+    "four_hour": {
+      "close": 17.03,
+      "ema20": 17.960068519558213,
+      "sma50": 18.35995,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.06610616946002415,
+    "current_vs_sector": -0.39702233250619073,
+    "stock_vs_spy_5d": -9.723930048123009,
+    "stock_vs_spy_20d": -7.585408244430346,
+    "stock_vs_sector_5d": -8.359539304443587,
+    "stock_vs_sector_20d": -7.6486849058904784
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "MEDIUM",
+    "headlines": [
+      {
+        "title": "Is SoFi's Product Flywheel Gaining Enough Traction to Lift SOFI Stock?",
+        "published_utc": "2026-08-31T18:18:00Z",
+        "url": "https://www.zacks.com/stock/news/2982794/is-sofi-s-product-flywheel-gaining-enough-traction-to-lift-sofi-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2982794",
+        "age_hours": 41.9
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 6.5,
+    "pivot": 16.89,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 16.89,
+    "aggressive_trigger": 16.87311,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 16.760035714285713,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 17.041315917707546,
+    "invalidation": 16.95467306056469,
+    "target_1r": 16.704904082292455,
+    "target_2r": 16.53669816458491,
+    "add_reference": 16.456785714285715,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 38.2,
+      "trigger": "Breaks/holds below 16.89"
+    },
+    "neutral": {
+      "probability_pct": 43.4,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 18.4,
+      "trigger": "Reclaims 16.95"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $16.89 with volume participation.",
+  "why": [
+    "Discovery channels: MINUTE_SPIKE_PROXY",
+    "Premarket participation: ACTIVE (472,679 shares)",
+    "PREMARKET same-time RVOL 1.3x",
+    "Recent 5m volume 2.3x normal",
+    "Weekly/Daily/4H: BEARISH/BEARISH/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

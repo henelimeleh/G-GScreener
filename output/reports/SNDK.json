@@ -1,0 +1,266 @@
+{
+  "ticker": "SNDK",
+  "name": "Sandisk Corporation Common Stock",
+  "price": 1526.14,
+  "market_cap": 225026970066.87,
+  "gap_pct": -0.6981722592021344,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 32.9,
+  "long_score": 32.9,
+  "short_score": 24.4,
+  "score_margin": 8.5,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 10.0,
+    "volume": 1.0,
+    "relative_strength": 6.0,
+    "event_news": 4.6,
+    "livermore": 4.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 180419.535799,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.3964029847841307,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.5520915203363101,
+  "vwap": 1520.5740599527137,
+  "distance_from_vwap_pct": 0.3660420228041694,
+  "pm_high": 1531.46,
+  "pm_low": 1513.2,
+  "prior_pm_high": 1531.46,
+  "prior_pm_low": 1513.2,
+  "atr14": 127.38580000000005,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 1536.87,
+      "sma10": 1513.838,
+      "sma30": 1272.4836666666667,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 1536.87,
+      "close": 1536.87,
+      "sma20": 1478.4365,
+      "sma50": 1577.5439999999999,
+      "sma200": 983.54375,
+      "ema20": 1504.200515556633,
+      "atr14": 127.38580000000005,
+      "ret5": 3.788569460483382,
+      "ret20": 7.652596629355157,
+      "prior20_high": 1827.99,
+      "prior20_low": 1163.09,
+      "high52w": 2354.3899,
+      "low52w": 50.07,
+      "prev_high": 1609.605,
+      "prev_low": 1513.0,
+      "prev_close": 1536.87,
+      "current_price": 1526.14,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 1526.14,
+      "ema20": 1524.989002764376,
+      "sma50": 1563.4168840000002,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "NEUTRAL"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.6469763758762416,
+    "current_vs_sector": -0.30065537834829553,
+    "stock_vs_spy_5d": 4.327797307097214,
+    "stock_vs_spy_20d": 8.890717796689508,
+    "stock_vs_sector_5d": 2.7431199171797704,
+    "stock_vs_sector_20d": 9.396844890457356
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Down More Than 30% From Its Peak, Is Now the Perfect Time to Buy Sandisk Stock?",
+        "published_utc": "2026-09-01T20:18:51Z",
+        "url": "https://www.fool.com/investing/2026/09/01/down-more-than-30-from-its-peak-is-now-the-perfect/?source=iedfolrf0000001",
+        "age_hours": 15.9
+      },
+      {
+        "title": "Is SK Hynix a Millionaire-Maker Stock?",
+        "published_utc": "2026-09-01T16:23:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/is-sk-hynix-a-millionaire-maker-stock/?source=iedfolrf0000001",
+        "age_hours": 19.9
+      },
+      {
+        "title": "New Strong Buy Stocks for September 1st",
+        "published_utc": "2026-09-01T11:05:00Z",
+        "url": "https://www.zacks.com/commentary/2982263/new-strong-buy-stocks-for-september-1st?cid=CS-ZC-FT-zacks_1_rank_additions-2982263",
+        "age_hours": 25.2
+      },
+      {
+        "title": "Is Invesco S&P 500 Pure Growth ETF (RPG) a Strong ETF Right Now?",
+        "published_utc": "2026-09-01T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2982881/is-invesco-s-p-500-pure-growth-etf-rpg-a-strong-etf-right-now?cid=CS-ZC-FT-smart_beta_etf-2982881",
+        "age_hours": 25.9
+      },
+      {
+        "title": "MEXC Reports Storage and Memory Stock Futures Dominated Trading During Big Tech Earnings Season",
+        "published_utc": "2026-09-01T10:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353893/0/en/mexc-reports-storage-and-memory-stock-futures-dominated-trading-during-big-tech-earnings-season.html",
+        "age_hours": 26.2
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 4.5,
+    "pivot": 1531.46,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 1531.46,
+    "aggressive_trigger": 1532.99146,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 1550.56787,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 1507.8354799527137,
+    "invalidation": 1520.5740599527137,
+    "target_1r": 1558.1474400472862,
+    "target_2r": 1583.3034200945724,
+    "add_reference": 1595.1529,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 1531.46"
+    },
+    "neutral": {
+      "probability_pct": 38.2,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 26.8,
+      "trigger": "Loses 1520.57"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $1531.46 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (180,420 shares)",
+    "PREMARKET same-time RVOL 0.4x",
+    "Weekly/Daily/4H: BULLISH/NEUTRAL/NEUTRAL",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

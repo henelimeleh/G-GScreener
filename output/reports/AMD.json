@@ -1,0 +1,262 @@
+{
+  "ticker": "AMD",
+  "name": "Advanced Micro Devices",
+  "price": 456.2,
+  "market_cap": 750301854053.62,
+  "gap_pct": -0.7419333782989979,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 35.7,
+  "long_score": 20.8,
+  "short_score": 35.7,
+  "score_margin": 14.900000000000002,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 9.2,
+    "volume": 1.0,
+    "relative_strength": 8.5,
+    "event_news": 3.3,
+    "livermore": 2.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 110531.492342,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.5242305822597796,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.7038580019656651,
+  "vwap": 455.03476247507655,
+  "distance_from_vwap_pct": 0.25607659480462175,
+  "pm_high": 458.8,
+  "pm_low": 453.05,
+  "prior_pm_high": 458.8,
+  "prior_pm_low": 453.05,
+  "atr14": 19.170935714285715,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 459.61,
+      "sma10": 496.576,
+      "sma30": 390.38866666666667,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 459.61,
+      "close": 459.61,
+      "sma20": 478.39250000000004,
+      "sma50": 502.9017,
+      "sma200": 337.7203,
+      "ema20": 478.62280269223623,
+      "atr14": 19.170935714285715,
+      "ret5": -4.084060269627276,
+      "ret20": -11.371437386709871,
+      "prior20_high": 517.3493,
+      "prior20_low": 451.0,
+      "high52w": 584.73,
+      "low52w": 149.22,
+      "prev_high": 461.5,
+      "prev_low": 452.3,
+      "prev_close": 459.61,
+      "current_price": 456.2,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 456.2,
+      "ema20": 466.73984173421195,
+      "sma50": 475.051802,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.690737494973105,
+    "current_vs_sector": -0.34441649744515895,
+    "stock_vs_spy_5d": -3.544832423013444,
+    "stock_vs_spy_20d": -10.133316219375523,
+    "stock_vs_sector_5d": -5.129509812930888,
+    "stock_vs_sector_20d": -9.627189125607671
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983509/should-you-invest-in-the-ishares-semiconductor-etf-soxx?cid=CS-ZC-FT-sector_etf-2983509",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Billionaire Stanley Druckenmiller Still Isn’t Buying Nvidia. But He Just Opened a Position in a Challenger That’s Soared More Than 100% This Year.",
+        "published_utc": "2026-09-02T08:30:01Z",
+        "url": "https://www.fool.com/investing/2026/09/02/billionaire-stanley-druckenmiller-still-isn-t-buying-nvidia-but-he-just-opened-a-position-in-a-challenger-that-s-soared-more-than-100-this-year/?source=iedfolrf0000001",
+        "age_hours": 3.7
+      },
+      {
+        "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+        "published_utc": "2026-09-01T21:23:56Z",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-intel-falls-on-chip-stock-pressure/?source=iedfolrf0000001",
+        "age_hours": 14.8
+      },
+      {
+        "title": "AMD's Instinct Systems Are Now Live in Saudi Arabia -- Here's What the Next 250 Megawatts Are Worth to the Stock",
+        "published_utc": "2026-09-01T16:24:01Z",
+        "url": "https://www.fool.com/investing/2026/09/01/amd-s-instinct-systems-are-now-live-in-saudi-arabia-here-s-what-the-next-250-megawatts-are-worth-to-the-stock/?source=iedfolrf0000001",
+        "age_hours": 19.8
+      },
+      {
+        "title": "Can Qualcomm's Tie-Up With HUMAIN for AI PC Lift Its Shares?",
+        "published_utc": "2026-09-01T15:45:00Z",
+        "url": "https://www.zacks.com/stock/news/2983337/can-qualcomm-s-tie-up-with-humain-for-ai-pc-lift-its-shares?cid=CS-ZC-FT-analyst_blog|quick_take-2983337",
+        "age_hours": 20.5
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 2.5,
+    "pivot": 453.05,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 453.05,
+    "aggressive_trigger": 452.59695,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 450.17435964285715,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 456.9518560465051,
+    "invalidation": 455.03476247507655,
+    "target_1r": 448.2420439534949,
+    "target_2r": 443.8871379069898,
+    "add_reference": 443.46453214285714,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 453.05"
+    },
+    "neutral": {
+      "probability_pct": 39.3,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 25.7,
+      "trigger": "Reclaims 455.03"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $453.05 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (110,531 shares)",
+    "PREMARKET same-time RVOL 0.5x",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

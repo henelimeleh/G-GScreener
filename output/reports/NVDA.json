@@ -1,0 +1,268 @@
+{
+  "ticker": "NVDA",
+  "name": "Nvidia Corp",
+  "price": 217.42,
+  "market_cap": 5250523680000.0,
+  "gap_pct": -0.009197939661520493,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 45.0,
+  "long_score": 45.0,
+  "short_score": 24.9,
+  "score_margin": 20.1,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 17.0,
+    "volume": 3.0,
+    "relative_strength": 7.6,
+    "event_news": 4.6,
+    "livermore": 6.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER",
+    "MINUTE_SPIKE_PROXY"
+  ],
+  "pm_volume": 725487.288792,
+  "pm_volume_state": "STRONG",
+  "runtime_rvol": 0.41866898344276793,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 1.4053551390133905,
+  "vwap": 216.85686199222943,
+  "distance_from_vwap_pct": 0.25968189459033564,
+  "pm_high": 217.5,
+  "pm_low": 216.07,
+  "prior_pm_high": 217.5,
+  "prior_pm_low": 216.07,
+  "atr14": 6.673557142857143,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 217.44,
+      "sma10": 211.502,
+      "sma30": 200.60166666666666,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 217.44,
+      "close": 217.44,
+      "sma20": 219.0295,
+      "sma50": 208.7976,
+      "sma200": 196.0815,
+      "ema20": 216.27500208279264,
+      "atr14": 6.673557142857143,
+      "ret5": 2.0605491668622244,
+      "ret20": 2.595074077569115,
+      "prior20_high": 230.47,
+      "prior20_low": 207.25,
+      "high52w": 236.54,
+      "low52w": 164.07,
+      "prev_high": 220.41,
+      "prev_low": 215.1,
+      "prev_close": 217.44,
+      "current_price": 217.42,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 217.42,
+      "ema20": 218.73654262578737,
+      "sma50": 218.33926599999998,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 0.04199794366437234,
+    "current_vs_sector": 0.3883189411923184,
+    "stock_vs_spy_5d": 2.5997770134760567,
+    "stock_vs_spy_20d": 3.8331952449034645,
+    "stock_vs_sector_5d": 1.015099623558613,
+    "stock_vs_sector_20d": 4.339322338671314
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Linkhome Establishes AI Computing Subsidiary Linkhome Technologies and Begins Preliminary Evaluation of a Proposed European AI Computing Project That Could Involve Up to 144 NVIDIA GB300 GPUs",
+        "published_utc": "2026-09-02T12:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/02/3355055/0/en/linkhome-establishes-ai-computing-subsidiary-linkhome-technologies-and-begins-preliminary-evaluation-of-a-proposed-european-ai-computing-project-that-could-involve-up-to-144-nvidia.html",
+        "age_hours": 0.2
+      },
+      {
+        "title": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10",
+        "published_utc": "2026-09-02T11:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/nvda-is-retail-investors-most-held-stock-new-spcx/?source=iedfolrf0000001",
+        "age_hours": 1.1
+      },
+      {
+        "title": "Should You Invest in the iShares Semiconductor ETF (SOXX)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983509/should-you-invest-in-the-ishares-semiconductor-etf-soxx?cid=CS-ZC-FT-sector_etf-2983509",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Should JLens 500 Jewish Advocacy U.S. ETF (TOV) Be on Your Investing Radar?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983505/should-jlens-500-jewish-advocacy-u-s-etf-tov-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2983505",
+        "age_hours": 1.9
+      },
+      {
+        "title": "The World's First $10 Trillion Company Could Arrive as Soon as Early 2028",
+        "published_utc": "2026-09-02T10:19:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/the-worlds-first-10-trillion-company-could-arrive/?source=iedfolrf0000001",
+        "age_hours": 1.9
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 6.0,
+    "pivot": 217.5,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 217.5,
+    "aggressive_trigger": 217.71749999999997,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 218.50103357142856,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 216.1895062779437,
+    "invalidation": 216.85686199222943,
+    "target_1r": 219.24549372205624,
+    "target_2r": 220.7734874441125,
+    "add_reference": 220.83677857142857,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 217.50"
+    },
+    "neutral": {
+      "probability_pct": 43.0,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 22.0,
+      "trigger": "Loses 216.86"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $217.50 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER, MINUTE_SPIKE_PROXY",
+    "Premarket participation: STRONG (725,487 shares)",
+    "PREMARKET same-time RVOL 0.4x",
+    "Weekly/Daily/4H: BULLISH/BULLISH/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "ticker": "MDB",
+  "name": "MongoDB, Inc. Class A",
+  "price": 380.0,
+  "market_cap": 34924347022.67,
+  "gap_pct": -12.484742405748362,
+  "direction": "SHORT",
+  "setup": "GAP & GO SHORT",
+  "state": "WATCH",
+  "score": 43.4,
+  "long_score": 35.7,
+  "short_score": 43.4,
+  "score_margin": 7.699999999999996,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 9.2,
+    "volume": 11.0,
+    "relative_strength": 5.0,
+    "event_news": 3.0,
+    "livermore": 4.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "GAP_DOWN",
+    "VOLUME_LEADER",
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 136297.833008,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 58.1319623840891,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": null,
+  "vwap": 376.35575264298336,
+  "distance_from_vwap_pct": 0.968298566296566,
+  "pm_high": 382.0,
+  "pm_low": 370.31,
+  "prior_pm_high": 382.0,
+  "prior_pm_low": 370.31,
+  "atr14": 22.488057142857137,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 434.21,
+      "sma10": 381.578,
+      "sma30": 325.2653333333334,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 434.21,
+      "close": 434.21,
+      "sma20": 426.2495,
+      "sma50": 369.22360000000003,
+      "sma200": 342.0219,
+      "ema20": 417.17017723666675,
+      "atr14": 22.488057142857137,
+      "ret5": 7.233527610392176,
+      "ret20": 14.253762761814537,
+      "prior20_high": 473.1,
+      "prior20_low": 355.0,
+      "high52w": 473.1,
+      "low52w": 215.68,
+      "prev_high": 448.6806,
+      "prev_low": 430.525,
+      "prev_close": 434.21,
+      "current_price": 380.0,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 380.0,
+      "ema20": 426.0207164562784,
+      "sma50": 428.45180999999997,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -12.43354652242247,
+    "current_vs_sector": -12.087225524894523,
+    "stock_vs_spy_5d": 7.772755457006008,
+    "stock_vs_spy_20d": 15.491883929148887,
+    "stock_vs_sector_5d": 6.188078067088565,
+    "stock_vs_sector_20d": 15.998011022916735
+  },
+  "news": {
+    "available": true,
+    "catalyst": "NONE_FOUND",
+    "sentiment": "UNKNOWN",
+    "score": 0.0,
+    "confidence": "LOW",
+    "headlines": [],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 4.0,
+    "pivot": 370.31,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 370.31,
+    "aggressive_trigger": 369.93969,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 366.93679142857144,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 378.60455835726907,
+    "invalidation": 376.35575264298336,
+    "target_1r": 361.2748216427309,
+    "target_2r": 352.6099532854618,
+    "add_reference": 359.06597142857146,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 370.31"
+    },
+    "neutral": {
+      "probability_pct": 42.4,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 22.6,
+      "trigger": "Reclaims 376.36"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $370.31 with volume participation.",
+  "why": [
+    "Gap Down -12.48% triggered discovery",
+    "Discovery channels: GAP_DOWN, VOLUME_LEADER, DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (136,298 shares)",
+    "PREMARKET same-time RVOL 58.1x",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP",
+    "Premarket volume is not yet strong (136,298; state=WATCH)",
+    "Long/short score separation is small (7.7 points); directional conviction is limited"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

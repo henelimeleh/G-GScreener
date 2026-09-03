@@ -1,0 +1,241 @@
+{
+  "ticker": "CRCL",
+  "name": "Circle Internet Group, Inc.",
+  "price": 88.1207,
+  "market_cap": 22716813831.88,
+  "gap_pct": -1.5191104157353696,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 43.3,
+  "long_score": 43.3,
+  "short_score": 23.0,
+  "score_margin": 20.299999999999997,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 5.0,
+    "technical": 18.2,
+    "volume": 2.0,
+    "relative_strength": 3.7,
+    "event_news": 4.6,
+    "livermore": 6.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:57 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 322283.603519,
+  "pm_volume_state": "ACTIVE",
+  "runtime_rvol": 0.9740685794993783,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.5385495182691713,
+  "vwap": 87.72821188379885,
+  "distance_from_vwap_pct": 0.44739099062114374,
+  "pm_high": 89.69,
+  "pm_low": 86.8385,
+  "prior_pm_high": 89.69,
+  "prior_pm_low": 86.8385,
+  "atr14": 6.825378571428572,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Financials",
+    "available": true,
+    "etf": "XLF",
+    "trend": "NEUTRAL",
+    "ret5": -1.9036185902932545,
+    "ret20": -1.1748445058742174,
+    "vs_spy_5d": -1.3643907436794223,
+    "vs_spy_20d": 0.06327666146013211,
+    "current_change_pct": 0.27972027972027375,
+    "current_vs_spy": 0.33091616304616656,
+    "metrics": {
+      "historical_close": 57.2,
+      "close": 57.2,
+      "sma20": 57.81849999999999,
+      "sma50": 56.593,
+      "sma200": 53.4005,
+      "ema20": 57.60883430328151,
+      "atr14": 0.5893214285714288,
+      "ret5": -1.9036185902932545,
+      "ret20": -1.1748445058742174,
+      "prior20_high": 58.41,
+      "prior20_low": 56.91,
+      "high52w": 58.41,
+      "low52w": 47.67,
+      "prev_high": 57.98,
+      "prev_low": 57.13,
+      "prev_close": 57.2,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 89.48,
+      "sma10": 71.906,
+      "sma30": 87.06066666666668,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 89.48,
+      "close": 89.48,
+      "sma20": 79.1155,
+      "sma50": 70.9114,
+      "sma200": 84.83914999999999,
+      "ema20": 81.80499075763456,
+      "atr14": 6.825378571428572,
+      "ret5": -2.7602695066289873,
+      "ret20": 41.470355731225304,
+      "prior20_high": 96.4,
+      "prior20_low": 59.12,
+      "high52w": 159.47,
+      "low52w": 49.9,
+      "prev_high": 93.3,
+      "prev_low": 88.11,
+      "prev_close": 89.48,
+      "current_price": 88.1207,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 88.1207,
+      "ema20": 90.07426251047283,
+      "sma50": 85.622986,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "NEUTRAL"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.467914532409477,
+    "current_vs_sector": -1.7988306954556434,
+    "stock_vs_spy_5d": -2.221041660015155,
+    "stock_vs_spy_20d": 42.70847689855965,
+    "stock_vs_sector_5d": -0.8566509163357328,
+    "stock_vs_sector_20d": 42.64520023709952
+  },
+  "news": {
+    "available": true,
+    "catalyst": "REGULATORY",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "MEDIUM",
+    "headlines": [
+      {
+        "title": "Stock Market Today, Aug. 31: Stocks Edge Lower as Oil Prices Surge Again",
+        "published_utc": "2026-08-31T21:07:40Z",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/08/31/stock-market-today-aug-31-stocks-edge-lower-as-oil-prices-surge-again/?source=iedfolrf0000001",
+        "age_hours": 39.1
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 6.0,
+    "pivot": 89.69,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 89.69,
+    "aggressive_trigger": 89.77968999999999,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 90.71380678571428,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 87.42746214285714,
+    "invalidation": 88.11,
+    "target_1r": 92.13191785714284,
+    "target_2r": 94.48414571428569,
+    "add_reference": 93.10268928571428,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 89.69"
+    },
+    "neutral": {
+      "probability_pct": 42.3,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 22.7,
+      "trigger": "Loses 88.11"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $89.69 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: ACTIVE (322,284 shares)",
+    "PREMARKET same-time RVOL 1.0x",
+    "Weekly/Daily/4H: BULLISH/BULLISH/NEUTRAL",
+    "Recent catalyst: REGULATORY (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

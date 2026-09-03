@@ -1,0 +1,268 @@
+{
+  "ticker": "TSLA",
+  "name": "Tesla, Inc. Common Stock",
+  "price": 357.2,
+  "market_cap": 1406394331529.46,
+  "gap_pct": 0.31171894745711803,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 37.7,
+  "long_score": 37.7,
+  "short_score": 27.6,
+  "score_margin": 10.100000000000001,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 9.2,
+    "volume": 4.0,
+    "relative_strength": 8.4,
+    "event_news": 3.3,
+    "livermore": 6.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 235319.209286,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.7080553156938473,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 2.2090031159247054,
+  "vwap": 355.9762513599314,
+  "distance_from_vwap_pct": 0.34377255094786285,
+  "pm_high": 358.1,
+  "pm_low": 354.01,
+  "prior_pm_high": 358.1,
+  "prior_pm_low": 354.01,
+  "atr14": 13.731385714285722,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Industrials",
+    "available": true,
+    "etf": "XLI",
+    "trend": "NEUTRAL",
+    "ret5": -3.1782511210762365,
+    "ret20": -7.333690987124475,
+    "vs_spy_5d": -2.6390232744624043,
+    "vs_spy_20d": -6.095569819790126,
+    "current_change_pct": 0.1273664100040519,
+    "current_vs_spy": 0.17856229332994475,
+    "metrics": {
+      "historical_close": 172.73,
+      "close": 172.73,
+      "sma20": 181.9085,
+      "sma50": 181.5862,
+      "sma200": 170.40625,
+      "ema20": 179.94058604870614,
+      "atr14": 2.3010642857142836,
+      "ret5": -3.1782511210762365,
+      "ret20": -7.333690987124475,
+      "prior20_high": 188.19,
+      "prior20_low": 172.145,
+      "high52w": 188.19,
+      "low52w": 147.135,
+      "prev_high": 175.44,
+      "prev_low": 172.145,
+      "prev_close": 172.73,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 356.09,
+      "sma10": 354.484,
+      "sma30": 382.0543333333333,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 356.09,
+      "close": 356.09,
+      "sma20": 342.54949999999997,
+      "sma50": 358.8438,
+      "sma200": 400.197425,
+      "ema20": 348.1388459454457,
+      "atr14": 13.731385714285722,
+      "ret5": 1.6673804425410443,
+      "ret20": 8.779593707041379,
+      "prior20_high": 368.92,
+      "prior20_low": 315.5205,
+      "high52w": 498.83,
+      "low52w": 297.38,
+      "prev_high": 362.7,
+      "prev_low": 352.96,
+      "prev_close": 356.09,
+      "current_price": 357.2,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 357.2,
+      "ema20": 355.6661558678448,
+      "sma50": 350.29099,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BULLISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 0.36291483078301084,
+    "current_vs_sector": 0.18435253745306612,
+    "stock_vs_spy_5d": 2.2066082891548766,
+    "stock_vs_spy_20d": 10.017714874375727,
+    "stock_vs_sector_5d": 4.845631563617281,
+    "stock_vs_sector_20d": 16.113284694165856
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10",
+        "published_utc": "2026-09-02T11:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/nvda-is-retail-investors-most-held-stock-new-spcx/?source=iedfolrf0000001",
+        "age_hours": 1.1
+      },
+      {
+        "title": "Can This Popular Altcoin Hit a Price of $1 by 2027? The Answer Will Blow Your Mind",
+        "published_utc": "2026-09-02T10:24:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/can-this-altcoin-hit-a-price-of-1-by-2027-the-answ/?source=iedfolrf0000001",
+        "age_hours": 1.8
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "published_utc": "2026-09-02T09:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/?source=iedfolrf0000001",
+        "age_hours": 3.1
+      },
+      {
+        "title": "If the September Effect Hits Artificial Intelligence (AI) Stocks This Year, History Says This Is the Best Place to Hide",
+        "published_utc": "2026-09-01T23:30:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/if-the-september-effect-hits-artificial-intelligen/?source=iedfolrf0000001",
+        "age_hours": 12.7
+      },
+      {
+        "title": "MEXC Reports Storage and Memory Stock Futures Dominated Trading During Big Tech Earnings Season",
+        "published_utc": "2026-09-01T10:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353893/0/en/mexc-reports-storage-and-memory-stock-futures-dominated-trading-during-big-tech-earnings-season.html",
+        "age_hours": 26.2
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 6.0,
+    "pivot": 358.1,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Volume confirms participation",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 358.1,
+    "aggressive_trigger": 358.4581,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 360.1597078571429,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 354.6031127885028,
+    "invalidation": 355.9762513599314,
+    "target_1r": 362.3130872114972,
+    "target_2r": 366.1680744229944,
+    "add_reference": 364.9656928571429,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 358.10"
+    },
+    "neutral": {
+      "probability_pct": 40.1,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 24.9,
+      "trigger": "Loses 355.98"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $358.10 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (235,319 shares)",
+    "PREMARKET same-time RVOL 0.7x",
+    "Recent 5m volume 2.2x normal",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BULLISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

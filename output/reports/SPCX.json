@@ -1,0 +1,267 @@
+{
+  "ticker": "SPCX",
+  "name": "Space Exploration Technologies Corp. Class A Common Stock",
+  "price": 142.13,
+  "market_cap": 1874844561577.3499,
+  "gap_pct": -0.07030865499542127,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 49.2,
+  "long_score": 49.2,
+  "short_score": 22.0,
+  "score_margin": 27.200000000000003,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 22.0,
+    "volume": 3.0,
+    "relative_strength": 7.1,
+    "event_news": 3.3,
+    "livermore": 7.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 609195.817936,
+  "pm_volume_state": "STRONG",
+  "runtime_rvol": 0.3363681865234628,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.3358139532118198,
+  "vwap": 141.60692719095098,
+  "distance_from_vwap_pct": 0.36938363074827674,
+  "pm_high": 142.19,
+  "pm_low": 141.01,
+  "prior_pm_high": 142.19,
+  "prior_pm_low": 141.01,
+  "atr14": 6.29199285714286,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 142.23,
+      "sma10": 134.85399999999998,
+      "sma30": 74.00534999999999,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 142.23,
+      "close": 142.23,
+      "sma20": 136.8415,
+      "sma50": 136.4878,
+      "sma200": 56.537949,
+      "ema20": 136.8134703483038,
+      "atr14": 6.29199285714286,
+      "ret5": 3.102573396158026,
+      "ret20": 13.484401180882454,
+      "prior20_high": 149.8,
+      "prior20_low": 105.11,
+      "high52w": 225.64,
+      "low52w": 21.32,
+      "prev_high": 145.23,
+      "prev_low": 141.167,
+      "prev_close": 142.23,
+      "current_price": 142.13,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 142.13,
+      "ema20": 141.31969588033178,
+      "sma50": 139.878712,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BULLISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.01911277166952844,
+    "current_vs_sector": 0.32720822585841763,
+    "stock_vs_spy_5d": 3.6418012427718582,
+    "stock_vs_spy_20d": 14.722522348216803,
+    "stock_vs_sector_5d": 2.0571238528544145,
+    "stock_vs_sector_20d": 15.228649441984654
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10",
+        "published_utc": "2026-09-02T11:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/nvda-is-retail-investors-most-held-stock-new-spcx/?source=iedfolrf0000001",
+        "age_hours": 1.1
+      },
+      {
+        "title": "Can This Popular Altcoin Hit a Price of $1 by 2027? The Answer Will Blow Your Mind",
+        "published_utc": "2026-09-02T10:24:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/can-this-altcoin-hit-a-price-of-1-by-2027-the-answ/?source=iedfolrf0000001",
+        "age_hours": 1.8
+      },
+      {
+        "title": "SpaceX vs. Anthropic: Which Is the Better IPO to Own?",
+        "published_utc": "2026-09-02T09:21:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/spacex-vs-anthropic-which-is-the-better-ipo-to-own/?source=iedfolrf0000001",
+        "age_hours": 2.9
+      },
+      {
+        "title": "Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000)",
+        "published_utc": "2026-09-01T20:03:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/microns-stock-price-by-the-end-of-2027/?source=iedfolrf0000001",
+        "age_hours": 16.2
+      },
+      {
+        "title": "The SpaceX Stock Price Faces 3 Big Challenges in September -- Here's What It Means for Investors.",
+        "published_utc": "2026-09-01T19:32:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/spacex-stock-price-challenges-september/?source=iedfolrf0000001",
+        "age_hours": 16.7
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 7.0,
+    "pivot": 142.19,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 142.19,
+    "aggressive_trigger": 142.33218999999997,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 143.13379892857142,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 140.9777279052367,
+    "invalidation": 141.60692719095098,
+    "target_1r": 143.68665209476325,
+    "target_2r": 145.04111418952652,
+    "add_reference": 145.33599642857143,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 142.19"
+    },
+    "neutral": {
+      "probability_pct": 44.7,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 20.3,
+      "trigger": "Loses 141.61"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $142.19 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: STRONG (609,196 shares)",
+    "PREMARKET same-time RVOL 0.3x",
+    "Weekly/Daily/4H: BULLISH/BULLISH/BULLISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

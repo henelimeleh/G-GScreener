@@ -1,0 +1,248 @@
+{
+  "ticker": "RKLB",
+  "name": "Rocket Lab Corporation Common Stock",
+  "price": 61.45,
+  "market_cap": 39988763252.06,
+  "gap_pct": -1.7428845538855042,
+  "direction": "SHORT",
+  "setup": "PIVOT / BREAKDOWN SHORT",
+  "state": "WATCH",
+  "score": 58.9,
+  "long_score": 23.5,
+  "short_score": 58.9,
+  "score_margin": 35.4,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 25.0,
+    "volume": 5.0,
+    "relative_strength": 8.6,
+    "event_news": 2.6,
+    "livermore": 6.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 426873.520152,
+  "pm_volume_state": "ACTIVE",
+  "runtime_rvol": 1.0101044252251166,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 2.7632692582790255,
+  "vwap": 61.047222646333196,
+  "distance_from_vwap_pct": 0.6597799804918703,
+  "pm_high": 61.7,
+  "pm_low": 60.6231,
+  "prior_pm_high": 61.7,
+  "prior_pm_low": 60.6231,
+  "atr14": 3.816671428571428,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Industrials",
+    "available": true,
+    "etf": "XLI",
+    "trend": "NEUTRAL",
+    "ret5": -3.1782511210762365,
+    "ret20": -7.333690987124475,
+    "vs_spy_5d": -2.6390232744624043,
+    "vs_spy_20d": -6.095569819790126,
+    "current_change_pct": 0.1273664100040519,
+    "current_vs_spy": 0.17856229332994475,
+    "metrics": {
+      "historical_close": 172.73,
+      "close": 172.73,
+      "sma20": 181.9085,
+      "sma50": 181.5862,
+      "sma200": 170.40625,
+      "ema20": 179.94058604870614,
+      "atr14": 2.3010642857142836,
+      "ret5": -3.1782511210762365,
+      "ret20": -7.333690987124475,
+      "prior20_high": 188.19,
+      "prior20_low": 172.145,
+      "high52w": 188.19,
+      "low52w": 147.135,
+      "prev_high": 175.44,
+      "prev_low": 172.145,
+      "prev_close": 172.73,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 62.54,
+      "sma10": 74.056,
+      "sma30": 83.58133333333333,
+      "trend": "BEARISH"
+    },
+    "daily": {
+      "historical_close": 62.54,
+      "close": 62.54,
+      "sma20": 73.862,
+      "sma50": 76.3164,
+      "sma200": 79.188225,
+      "ema20": 70.81440188269596,
+      "atr14": 3.816671428571428,
+      "ret5": -6.531161261395901,
+      "ret20": -16.031149301825998,
+      "prior20_high": 86.83,
+      "prior20_low": 61.93,
+      "high52w": 150.9999,
+      "low52w": 37.57,
+      "prev_high": 63.9352,
+      "prev_low": 61.93,
+      "prev_close": 62.54,
+      "current_price": 61.45,
+      "trend": "BEARISH"
+    },
+    "four_hour": {
+      "close": 61.45,
+      "ema20": 64.70273428601291,
+      "sma50": 70.568612,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.6916886705596115,
+    "current_vs_sector": -1.8702509638895561,
+    "stock_vs_spy_5d": -5.9919334147820695,
+    "stock_vs_spy_20d": -14.79302813449165,
+    "stock_vs_sector_5d": -3.352910140319665,
+    "stock_vs_sector_20d": -8.697458314701523
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "MEDIUM",
+    "headlines": [
+      {
+        "title": "Choosing the Better Space ETF: Tema's NASA Focused on Space Innovators or First Trust's MISL Targeting Aerospace and Defense",
+        "published_utc": "2026-09-01T19:13:06Z",
+        "url": "https://www.fool.com/coverage/etfs/2026/09/01/choosing-the-better-space-etf-tema-s-nasa-focused-on-space-innovators-or-first-trust-s-misl-targeting-aerospace-and-defense/?source=iedfolrf0000001",
+        "age_hours": 17.0
+      },
+      {
+        "title": "Can Rocket Lab's Spacecraft Component Business Support Growth?",
+        "published_utc": "2026-09-01T15:41:00Z",
+        "url": "https://www.zacks.com/stock/news/2983277/can-rocket-lab-s-spacecraft-component-business-support-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2983277",
+        "age_hours": 20.5
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 6.5,
+    "pivot": 60.6231,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 3,
+    "reasons": [
+      "Weekly/Daily/4H align with the direction of least resistance",
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 60.6231,
+    "aggressive_trigger": 60.5624769,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 60.050599285714284,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 61.428889789190336,
+    "invalidation": 61.047222646333196,
+    "target_1r": 59.696064010809664,
+    "target_2r": 58.82965112161933,
+    "add_reference": 58.71476428571428,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 42.1,
+      "trigger": "Breaks/holds below 60.62"
+    },
+    "neutral": {
+      "probability_pct": 41.4,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 16.5,
+      "trigger": "Reclaims 61.05"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $60.62 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: ACTIVE (426,874 shares)",
+    "PREMARKET same-time RVOL 1.0x",
+    "Recent 5m volume 2.8x normal",
+    "Weekly/Daily/4H: BEARISH/BEARISH/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "ticker": "AMZN",
+  "name": "Amazon.Com Inc",
+  "price": 254.34,
+  "market_cap": 2749647055774.2397,
+  "gap_pct": -0.22752235995605607,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 37.6,
+  "long_score": 19.5,
+  "short_score": 37.6,
+  "score_margin": 18.1,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 9.5,
+    "technical": 9.2,
+    "volume": 1.0,
+    "relative_strength": 6.6,
+    "event_news": 2.6,
+    "livermore": 2.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER",
+    "MINUTE_SPIKE_PROXY"
+  ],
+  "pm_volume": 118395.999088,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.5560622402661022,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.9529352632991095,
+  "vwap": 253.5665764884681,
+  "distance_from_vwap_pct": 0.3050179255652319,
+  "pm_high": 254.47,
+  "pm_low": 252.83,
+  "prior_pm_high": 254.47,
+  "prior_pm_low": 252.83,
+  "atr14": 6.042214285714276,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Consumer Discretionary",
+    "available": true,
+    "etf": "XLY",
+    "trend": "BEARISH",
+    "ret5": -2.8486646884272937,
+    "ret20": -3.1279059937441955,
+    "vs_spy_5d": -2.3094368418134614,
+    "vs_spy_20d": -1.889784826409846,
+    "current_change_pct": -0.17453529976437981,
+    "current_vs_spy": -0.12333941643848698,
+    "metrics": {
+      "historical_close": 114.59,
+      "close": 114.59,
+      "sma20": 117.7065,
+      "sma50": 116.16760000000001,
+      "sma200": 116.96655000000001,
+      "ema20": 116.85412136613719,
+      "atr14": 1.502921428571428,
+      "ret5": -2.8486646884272937,
+      "ret20": -3.1279059937441955,
+      "prior20_high": 120.435,
+      "prior20_low": 114.32,
+      "high52w": 125.01,
+      "low52w": 105.19,
+      "prev_high": 115.615,
+      "prev_low": 114.32,
+      "prev_close": 114.59,
+      "trend": "BEARISH"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 254.92,
+      "sma10": 255.60399999999998,
+      "sma30": 242.23100000000002,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 254.92,
+      "close": 254.92,
+      "sma20": 264.54699999999997,
+      "sma50": 252.40939999999998,
+      "sma200": 238.7866,
+      "ema20": 260.30597857305884,
+      "atr14": 6.042214285714276,
+      "ret5": -2.3519497433540204,
+      "ret20": -8.11044625477616,
+      "prior20_high": 282.79,
+      "prior20_low": 251.93,
+      "high52w": 287.2,
+      "low52w": 196.0,
+      "prev_high": 255.82,
+      "prev_low": 251.93,
+      "prev_close": 254.92,
+      "current_price": 254.34,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 254.34,
+      "ema20": 258.8287420467048,
+      "sma50": 260.716298,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.17632647663016324,
+    "current_vs_sector": -0.05298706019167626,
+    "stock_vs_spy_5d": -1.8127218967401881,
+    "stock_vs_spy_20d": -6.872325087441811,
+    "stock_vs_sector_5d": 0.4967149450732733,
+    "stock_vs_sector_20d": -4.982540261031965
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should iShares S&P 500 Value ETF (IVE) Be on Your Investing Radar?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983502/should-ishares-s-p-500-value-etf-ive-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2983502",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "published_utc": "2026-09-02T09:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/?source=iedfolrf0000001",
+        "age_hours": 3.1
+      },
+      {
+        "title": "Why The Trade Desk Stock Lost 24% in August",
+        "published_utc": "2026-09-02T04:15:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/why-the-trade-desk-stock-lost-24-in-august/?source=iedfolrf0000001",
+        "age_hours": 8.0
+      },
+      {
+        "title": "If the September Effect Hits Artificial Intelligence (AI) Stocks This Year, History Says This Is the Best Place to Hide",
+        "published_utc": "2026-09-01T23:30:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/if-the-september-effect-hits-artificial-intelligen/?source=iedfolrf0000001",
+        "age_hours": 12.7
+      },
+      {
+        "title": "Prediction: This Could Be Micron's Stock Price by the End of 2027 (Hint: It's Above $2,000)",
+        "published_utc": "2026-09-01T20:03:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/microns-stock-price-by-the-end-of-2027/?source=iedfolrf0000001",
+        "age_hours": 16.2
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 2.5,
+    "pivot": 252.83,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Sector confirms the thesis"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 252.83,
+    "aggressive_trigger": 252.57717000000002,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 251.92366785714287,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 254.17079791703952,
+    "invalidation": 253.5665764884681,
+    "target_1r": 250.98354208296053,
+    "target_2r": 249.38991416592103,
+    "add_reference": 249.80889285714287,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 252.83"
+    },
+    "neutral": {
+      "probability_pct": 40.0,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 25.0,
+      "trigger": "Reclaims 253.57"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $252.83 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER, MINUTE_SPIKE_PROXY",
+    "Premarket participation: WATCH (118,396 shares)",
+    "PREMARKET same-time RVOL 0.6x",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

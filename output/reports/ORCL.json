@@ -1,0 +1,264 @@
+{
+  "ticker": "ORCL",
+  "name": "Oracle Corp",
+  "price": 139.675,
+  "market_cap": 407068161720.0,
+  "gap_pct": -1.164024908010175,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 43.8,
+  "long_score": 18.4,
+  "short_score": 43.8,
+  "score_margin": 25.4,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 17.5,
+    "volume": 1.0,
+    "relative_strength": 7.5,
+    "event_news": 2.6,
+    "livermore": 4.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 207078.419382,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.9176711566918916,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 1.3461827282065302,
+  "vwap": 139.26471208273608,
+  "distance_from_vwap_pct": 0.29461010698832446,
+  "pm_high": 140.16,
+  "pm_low": 138.4569,
+  "prior_pm_high": 140.16,
+  "prior_pm_low": 138.4569,
+  "atr14": 5.952492857142859,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 141.32,
+      "sma10": 138.83599999999998,
+      "sma30": 159.38066666666666,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 141.32,
+      "close": 141.32,
+      "sma20": 147.1265,
+      "sma50": 140.1702,
+      "sma200": 169.79354999999998,
+      "ema20": 145.18363435604874,
+      "atr14": 5.952492857142859,
+      "ret5": -2.376347057198125,
+      "ret20": -3.0327981336626952,
+      "prior20_high": 159.26,
+      "prior20_low": 137.43,
+      "high52w": 345.72,
+      "low52w": 114.5,
+      "prev_high": 146.79,
+      "prev_low": 139.95,
+      "prev_close": 141.32,
+      "current_price": 139.675,
+      "trend": "BEARISH"
+    },
+    "four_hour": {
+      "close": 139.675,
+      "ema20": 146.28757180304325,
+      "sma50": 146.072374,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.1128290246842822,
+    "current_vs_sector": -0.766508027156336,
+    "stock_vs_spy_5d": -1.8371192105842926,
+    "stock_vs_spy_20d": -1.7946769663283457,
+    "stock_vs_sector_5d": -3.4217966005017364,
+    "stock_vs_sector_20d": -1.288549872560496
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "What Is a Small Modular Reactor, and Why Is Big Tech Signing Multi-Decade Deals for Them?",
+        "published_utc": "2026-09-01T17:30:00Z",
+        "url": "https://www.fool.com/investing/2026/09/01/what-is-a-small-modular-reactor-and-why-is-big-tec/?source=iedfolrf0000001",
+        "age_hours": 18.7
+      },
+      {
+        "title": "Why Oracle (ORCL) is Poised to Beat Earnings Estimates Again",
+        "published_utc": "2026-09-01T16:10:02Z",
+        "url": "https://www.zacks.com/stock/news/2983317/why-oracle-orcl-is-poised-to-beat-earnings-estimates-again?cid=CS-ZC-FT-fundamental_analysis|yseop_template_7-2983317",
+        "age_hours": 20.1
+      },
+      {
+        "title": "AMZN's $5.3B Saudi Arabia Bet Sparks Market Buzz: Is the Stock a Buy?",
+        "published_utc": "2026-09-01T15:35:00Z",
+        "url": "https://www.zacks.com/stock/news/2983255/amzn-s-5-3b-saudi-arabia-bet-sparks-market-buzz-is-the-stock-a-buy?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983255",
+        "age_hours": 20.7
+      },
+      {
+        "title": "Nebius vs. CoreWeave: Which Is the Better Artificial Intelligence (AI) Infrastructure Stock to Buy Right Now",
+        "published_utc": "2026-09-01T14:15:01Z",
+        "url": "https://www.fool.com/investing/2026/09/01/nebius-vs-coreweave-which-is-the-better-artificial-intelligence-ai-infrastructure-stock-to-buy-right-now/?source=iedfolrf0000001",
+        "age_hours": 22.0
+      },
+      {
+        "title": "Here's Why Oracle (ORCL) Fell More Than Broader Market",
+        "published_utc": "2026-08-31T21:45:02Z",
+        "url": "https://www.zacks.com/stock/news/2982823/here-s-why-oracle-orcl-fell-more-than-broader-market?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2982823",
+        "age_hours": 38.5
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 4.0,
+    "pivot": 138.4569,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 138.4569,
+    "aggressive_trigger": 138.3184431,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 137.56402607142857,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 139.85996136845037,
+    "invalidation": 139.26471208273608,
+    "target_1r": 136.77692483154962,
+    "target_2r": 135.23540656309925,
+    "add_reference": 135.48065357142858,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 138.46"
+    },
+    "neutral": {
+      "probability_pct": 42.5,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 22.5,
+      "trigger": "Reclaims 139.26"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $138.46 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (207,078 shares)",
+    "PREMARKET same-time RVOL 0.9x",
+    "Weekly/Daily/4H: NEUTRAL/BEARISH/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

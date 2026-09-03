@@ -1,0 +1,266 @@
+{
+  "ticker": "GOOGL",
+  "name": "Alphabet Inc. Class A Common Stock",
+  "price": 336.26,
+  "market_cap": 4097272767081.6196,
+  "gap_pct": 0.37012715658766293,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 46.7,
+  "long_score": 30.9,
+  "short_score": 46.7,
+  "score_margin": 15.800000000000004,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 13.8,
+    "volume": 5.0,
+    "relative_strength": 6.1,
+    "event_news": 5.1,
+    "livermore": 5.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:59 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 247111.910767,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 1.1790582105387795,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 4.9626542400481615,
+  "vwap": 335.72453788746685,
+  "distance_from_vwap_pct": 0.15949448196503901,
+  "pm_high": 338.69,
+  "pm_low": 333.7,
+  "prior_pm_high": 338.69,
+  "prior_pm_low": 333.7,
+  "atr14": 6.207057142857143,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 335.02,
+      "sma10": 346.636,
+      "sma30": 341.8086666666667,
+      "trend": "BEARISH"
+    },
+    "daily": {
+      "historical_close": 335.02,
+      "close": 335.02,
+      "sma20": 346.432,
+      "sma50": 348.9108,
+      "sma200": 335.0507,
+      "ema20": 344.7822015989555,
+      "atr14": 6.207057142857143,
+      "ret5": -3.441318884021216,
+      "ret20": -11.288229842446707,
+      "prior20_high": 384.48,
+      "prior20_low": 333.05,
+      "high52w": 408.61,
+      "low52w": 206.195,
+      "prev_high": 337.2,
+      "prev_low": 333.05,
+      "prev_close": 335.02,
+      "current_price": 336.26,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 336.26,
+      "ema20": 340.2253198420773,
+      "sma50": 343.14101000000005,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 0.42132303991355574,
+    "current_vs_sector": 0.7676440374415019,
+    "stock_vs_spy_5d": -2.902091037407384,
+    "stock_vs_spy_20d": -10.050108675112359,
+    "stock_vs_sector_5d": -4.486768427324828,
+    "stock_vs_sector_20d": -9.543981581344507
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Nvidia Is Still Retail Investors' Most-Held Stock on Robinhood, but a New Trillion-Dollar Stock Has Entered the Top 10",
+        "published_utc": "2026-09-02T11:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/nvda-is-retail-investors-most-held-stock-new-spcx/?source=iedfolrf0000001",
+        "age_hours": 1.1
+      },
+      {
+        "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
+        "published_utc": "2026-09-02T10:15:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/with-tim-cooks-era-ending-is-apple-stock-a-buy-und/?source=iedfolrf0000001",
+        "age_hours": 2.0
+      },
+      {
+        "title": "Ranking the \"Magnificent Seven\" From Most to Least Attractive, Based on Future Cash Flow",
+        "published_utc": "2026-09-02T09:06:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/ranking-magnificent-seven-most-to-least-attractive/?source=iedfolrf0000001",
+        "age_hours": 3.1
+      },
+      {
+        "title": "If the AI Bubble Is About to Burst, 2 Things Warren Buffett Would Recommend Investors Do Right Now",
+        "published_utc": "2026-09-02T08:15:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/ai-bubble-burst-warren-buffett-recommend-invest/?source=iedfolrf0000001",
+        "age_hours": 4.0
+      },
+      {
+        "title": "Why The Trade Desk Stock Lost 24% in August",
+        "published_utc": "2026-09-02T04:15:00Z",
+        "url": "https://www.fool.com/investing/2026/09/02/why-the-trade-desk-stock-lost-24-in-august/?source=iedfolrf0000001",
+        "age_hours": 8.0
+      }
+    ],
+    "reaction": "GOOD_NEWS_BEING_SOLD"
+  },
+  "livermore": {
+    "score": 5.5,
+    "pivot": 333.7,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align",
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 333.7,
+    "aggressive_trigger": 333.36629999999997,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 332.7689414285714,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 336.34524360175254,
+    "invalidation": 335.72453788746685,
+    "target_1r": 330.3873563982474,
+    "target_2r": 327.4084127964948,
+    "add_reference": 330.5964714285714,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 333.70"
+    },
+    "neutral": {
+      "probability_pct": 43.7,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 21.3,
+      "trigger": "Reclaims 335.72"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $333.70 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: WATCH (247,112 shares)",
+    "PREMARKET same-time RVOL 1.2x",
+    "Recent 5m volume 5.0x normal",
+    "Weekly/Daily/4H: BEARISH/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=GOOD_NEWS_BEING_SOLD"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

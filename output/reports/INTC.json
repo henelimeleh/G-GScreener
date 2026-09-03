@@ -1,0 +1,262 @@
+{
+  "ticker": "INTC",
+  "name": "Intel Corp",
+  "price": 88.17,
+  "market_cap": 470304785160.14,
+  "gap_pct": -0.8991794987074253,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 35.1,
+  "long_score": 24.8,
+  "short_score": 35.1,
+  "score_margin": 10.3,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 9.2,
+    "volume": 3.0,
+    "relative_strength": 5.9,
+    "event_news": 3.3,
+    "livermore": 2.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 757886.3170939999,
+  "pm_volume_state": "STRONG",
+  "runtime_rvol": 0.4146944390029846,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 0.6096591991424266,
+  "vwap": 87.8693565225665,
+  "distance_from_vwap_pct": 0.3421482634350381,
+  "pm_high": 88.54,
+  "pm_low": 87.33,
+  "prior_pm_high": 88.54,
+  "prior_pm_low": 87.33,
+  "atr14": 4.56342142857143,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 88.97,
+      "sma10": 98.041,
+      "sma30": 87.02633333333333,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 88.97,
+      "close": 88.97,
+      "sma20": 95.19775,
+      "sma50": 102.9923,
+      "sma200": 73.298025,
+      "ema20": 93.47222560000553,
+      "atr14": 4.56342142857143,
+      "ret5": 1.703246456332863,
+      "ret20": -11.788617886178866,
+      "prior20_high": 107.57,
+      "prior20_low": 85.14,
+      "high52w": 142.35,
+      "low52w": 23.68,
+      "prev_high": 89.41,
+      "prev_low": 85.72,
+      "prev_close": 88.97,
+      "current_price": 88.17,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 88.17,
+      "ema20": 89.34134777058551,
+      "sma50": 91.82462799999999,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -0.8479836153815324,
+    "current_vs_sector": -0.5016626178535863,
+    "stock_vs_spy_5d": 2.2424743029466954,
+    "stock_vs_spy_20d": -10.550496718844517,
+    "stock_vs_sector_5d": 0.6577969130292516,
+    "stock_vs_sector_20d": -10.044369625076666
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "NEUTRAL",
+    "score": 6.0,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should You Invest in the State Street SPDR NYSE Technology ETF (XNTK)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983508/should-you-invest-in-the-state-street-spdr-nyse-technology-etf-xntk?cid=CS-ZC-FT-sector_etf-2983508",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
+        "published_utc": "2026-09-01T21:23:56Z",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-intel-falls-on-chip-stock-pressure/?source=iedfolrf0000001",
+        "age_hours": 14.8
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Microsoft, Intel, Bank of America, AMREP and United Bancorp",
+        "published_utc": "2026-09-01T13:08:00Z",
+        "url": "https://www.zacks.com/stock/news/2983150/the-zacks-analyst-blog-highlights-microsoft-intel-bank-of-america-amrep-and-united-bancorp?cid=CS-ZC-FT-press_releases-2983150",
+        "age_hours": 23.1
+      },
+      {
+        "title": "New Anaqua Report Reveals Surge in AI Semiconductor Patent Filings",
+        "published_utc": "2026-09-01T13:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3354190/0/en/new-anaqua-report-reveals-surge-in-ai-semiconductor-patent-filings.html",
+        "age_hours": 23.2
+      },
+      {
+        "title": "MEXC Reports Storage and Memory Stock Futures Dominated Trading During Big Tech Earnings Season",
+        "published_utc": "2026-09-01T10:00:00Z",
+        "url": "https://www.globenewswire.com/news-release/2026/09/01/3353893/0/en/mexc-reports-storage-and-memory-stock-futures-dominated-trading-during-big-tech-earnings-season.html",
+        "age_hours": 26.2
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 2.5,
+    "pivot": 87.33,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 87.33,
+    "aggressive_trigger": 87.24267,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 86.64548678571428,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 88.32569866542364,
+    "invalidation": 87.8693565225665,
+    "target_1r": 86.15964133457636,
+    "target_2r": 85.07661266915272,
+    "add_reference": 85.04828928571428,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 87.33"
+    },
+    "neutral": {
+      "probability_pct": 39.0,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 26.0,
+      "trigger": "Reclaims 87.87"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $87.33 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: STRONG (757,886 shares)",
+    "PREMARKET same-time RVOL 0.4x",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (NEUTRAL); reaction=UNCLEAR"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

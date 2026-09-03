@@ -1,0 +1,265 @@
+{
+  "ticker": "MRVL",
+  "name": "Marvell Technology, Inc. Common Stock",
+  "price": 206.11,
+  "market_cap": 189078463529.06998,
+  "gap_pct": -2.0343172204001947,
+  "direction": "SHORT",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 40.4,
+  "long_score": 27.5,
+  "short_score": 40.4,
+  "score_margin": 12.899999999999999,
+  "score_breakdown": {
+    "market": 6.2,
+    "sector": 5.0,
+    "technical": 9.2,
+    "volume": 5.0,
+    "relative_strength": 8.4,
+    "event_news": 2.6,
+    "livermore": 4.0
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:58 ET",
+  "discovered_by": [
+    "DOLLAR_VOLUME_LEADER"
+  ],
+  "pm_volume": 377767.255293,
+  "pm_volume_state": "ACTIVE",
+  "runtime_rvol": 0.7676684679149255,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 2.3357079812293877,
+  "vwap": 205.09191933044102,
+  "distance_from_vwap_pct": 0.49640213660426813,
+  "pm_high": 207.44,
+  "pm_low": 203.7,
+  "prior_pm_high": 207.44,
+  "prior_pm_low": 203.7,
+  "atr14": 16.45037857142857,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 210.39,
+      "sma10": 215.63600000000002,
+      "sma30": 177.65933333333334,
+      "trend": "NEUTRAL"
+    },
+    "daily": {
+      "historical_close": 210.39,
+      "close": 210.39,
+      "sma20": 224.64899999999997,
+      "sma50": 224.62810000000002,
+      "sma200": 149.8621,
+      "ema20": 223.47961503043445,
+      "atr14": 16.45037857142857,
+      "ret5": -12.47607954072718,
+      "ret20": -3.751315247724052,
+      "prior20_high": 254.6,
+      "prior20_low": 200.62,
+      "high52w": 329.88,
+      "low52w": 61.44,
+      "prev_high": 210.45,
+      "prev_low": 200.62,
+      "prev_close": 210.39,
+      "current_price": 206.11,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 206.11,
+      "ema20": 218.31269017048595,
+      "sma50": 229.215944,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "BEARISH"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -1.983121337074302,
+    "current_vs_sector": -1.6368003395463557,
+    "stock_vs_spy_5d": -11.936851694113349,
+    "stock_vs_spy_20d": -2.5131940803897024,
+    "stock_vs_sector_5d": -13.521529084030792,
+    "stock_vs_sector_20d": -2.0070669866218527
+  },
+  "news": {
+    "available": true,
+    "catalyst": "EARNINGS",
+    "sentiment": "POSITIVE",
+    "score": 7.5,
+    "confidence": "HIGH",
+    "headlines": [
+      {
+        "title": "Should You Invest in the State Street SPDR NYSE Technology ETF (XNTK)?",
+        "published_utc": "2026-09-02T10:20:02Z",
+        "url": "https://www.zacks.com/stock/news/2983508/should-you-invest-in-the-state-street-spdr-nyse-technology-etf-xntk?cid=CS-ZC-FT-sector_etf-2983508",
+        "age_hours": 1.9
+      },
+      {
+        "title": "Broadcom Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
+        "published_utc": "2026-09-01T15:02:00Z",
+        "url": "https://www.zacks.com/stock/news/2983214/broadcom-set-to-report-q3-earnings-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983214",
+        "age_hours": 21.2
+      },
+      {
+        "title": "Why Is Marvell Stock Falling, and is it a Generational Buying Opportunity?",
+        "published_utc": "2026-09-01T00:18:06Z",
+        "url": "https://www.fool.com/investing/2026/08/31/why-is-marvell-stock-falling-and-is-it-a-generatio/?source=iedfolrf0000001",
+        "age_hours": 35.9
+      },
+      {
+        "title": "There Are 16 Billion Reasons to Pay Attention to Broadcom Earnings on Sept. 2",
+        "published_utc": "2026-08-31T17:03:50Z",
+        "url": "https://www.fool.com/investing/2026/08/31/there-are-16-billion-reasons-to-pay-attention-to-broadcom-earnings-on-sept-2/?source=iedfolrf0000001",
+        "age_hours": 43.2
+      },
+      {
+        "title": "Marvell (MRVL) International Revenue Performance Explored",
+        "published_utc": "2026-08-31T13:15:04Z",
+        "url": "https://www.zacks.com/stock/news/2982393/marvell-mrvl-international-revenue-performance-explored?cid=CS-ZC-FT-fundamental_analysis|nfm_international_revenues-2982393",
+        "age_hours": 47.0
+      }
+    ],
+    "reaction": "NEWS_PRICE_DIVERGENCE"
+  },
+  "livermore": {
+    "score": 4.0,
+    "pivot": 203.7,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Volume confirms participation"
+    ],
+    "warnings": [
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 203.7,
+    "aggressive_trigger": 203.4963,
+    "aggressive_rule": "Break below pivot with participation; avoid entering if breakdown immediately reclaims.",
+    "conservative_trigger": 201.2324432142857,
+    "conservative_rule": "Prefer a 5m close below pivot followed by a failed reclaim/retest; the static level is a reference, not a blind short price.",
+    "stop_reference": 206.73695718758387,
+    "invalidation": 205.09191933044102,
+    "target_1r": 200.2556428124161,
+    "target_2r": 197.01498562483224,
+    "add_reference": 195.4748107142857,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average into invalidation.",
+    "do_not_trade_if": "Price reclaims invalidation, breakdown fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bearish": {
+      "probability_pct": 35,
+      "trigger": "Breaks/holds below 203.70"
+    },
+    "neutral": {
+      "probability_pct": 41.2,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bullish": {
+      "probability_pct": 23.8,
+      "trigger": "Reclaims 205.09"
+    }
+  },
+  "next_trigger": "Wait for price confirmation below the pivot near $203.70 with volume participation.",
+  "why": [
+    "Discovery channels: DOLLAR_VOLUME_LEADER",
+    "Premarket participation: ACTIVE (377,767 shares)",
+    "PREMARKET same-time RVOL 0.8x",
+    "Recent 5m volume 2.3x normal",
+    "Weekly/Daily/4H: NEUTRAL/NEUTRAL/BEARISH",
+    "Recent catalyst: EARNINGS (POSITIVE); reaction=NEWS_PRICE_DIVERGENCE"
+  ],
+  "risks": [
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

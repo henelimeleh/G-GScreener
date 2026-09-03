@@ -1,0 +1,251 @@
+{
+  "ticker": "NOW",
+  "name": "SERVICENOW, INC.",
+  "price": 139.4759,
+  "market_cap": 147738879800.0,
+  "gap_pct": -2.396151154653614,
+  "direction": "LONG",
+  "setup": "MOMENTUM WATCH",
+  "state": "WATCH",
+  "score": 45.5,
+  "long_score": 45.5,
+  "short_score": 26.6,
+  "score_margin": 18.9,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 3.0,
+    "technical": 18.2,
+    "volume": 5.0,
+    "relative_strength": 6.9,
+    "event_news": 1.1,
+    "livermore": 7.5
+  },
+  "data_completeness_pct": 100.0,
+  "data_as_of_et": "2026-09-02 07:56 ET",
+  "discovered_by": [
+    "MINUTE_SPIKE_PROXY"
+  ],
+  "pm_volume": 114741.182097,
+  "pm_volume_state": "WATCH",
+  "runtime_rvol": 0.842810742394426,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": 3.595056596770683,
+  "vwap": 139.31668238134944,
+  "distance_from_vwap_pct": 0.11428467569642997,
+  "pm_high": 140.3,
+  "pm_low": 138.48,
+  "prior_pm_high": 140.3,
+  "prior_pm_low": 138.48,
+  "atr14": 6.5354785714285715,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Technology",
+    "available": true,
+    "etf": "XLK",
+    "trend": "NEUTRAL",
+    "ret5": 1.0454495433036115,
+    "ret20": -1.7442482611021992,
+    "vs_spy_5d": 1.5846773899174438,
+    "vs_spy_20d": -0.5061270937678497,
+    "current_change_pct": -0.3975168808538389,
+    "current_vs_spy": -0.3463209975279461,
+    "metrics": {
+      "historical_close": 183.64,
+      "close": 183.64,
+      "sma20": 185.816,
+      "sma50": 182.50639999999999,
+      "sma200": 159.716825,
+      "ema20": 184.324096849581,
+      "atr14": 3.3082142857142856,
+      "ret5": 1.0454495433036115,
+      "ret20": -1.7442482611021992,
+      "prior20_high": 191.75,
+      "prior20_low": 178.815,
+      "high52w": 198.73,
+      "low52w": 126.68,
+      "prev_high": 184.92,
+      "prev_low": 182.63,
+      "prev_close": 183.64,
+      "trend": "NEUTRAL"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 142.9,
+      "sma10": 119.225,
+      "sma30": 108.10266666666666,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 142.9,
+      "close": 142.9,
+      "sma20": 128.406,
+      "sma50": 114.1336,
+      "sma200": 119.00122999999999,
+      "ema20": 129.05413328685097,
+      "atr14": 6.5354785714285715,
+      "ret5": 12.519685039370088,
+      "ret20": 20.95818520399526,
+      "prior20_high": 149.6,
+      "prior20_low": 111.8,
+      "high52w": 194.726,
+      "low52w": 81.24,
+      "prev_high": 146.9599,
+      "prev_low": 142.06,
+      "prev_close": 142.9,
+      "current_price": 139.4759,
+      "trend": "BULLISH"
+    },
+    "four_hour": {
+      "close": 139.4759,
+      "ema20": 139.55301643121197,
+      "sma50": 130.892862,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "NEUTRAL"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": -2.3449552713277213,
+    "current_vs_sector": -1.998634273799775,
+    "stock_vs_spy_5d": 13.05891288598392,
+    "stock_vs_spy_20d": 22.19630637132961,
+    "stock_vs_sector_5d": 11.474235496066477,
+    "stock_vs_sector_20d": 22.70243346509746
+  },
+  "news": {
+    "available": true,
+    "catalyst": "NEWS",
+    "sentiment": "NEUTRAL",
+    "score": 2.0,
+    "confidence": "LOW",
+    "headlines": [
+      {
+        "title": "FJTSY or NOW: Which Is the Better Value Stock Right Now?",
+        "published_utc": "2026-09-01T15:40:03Z",
+        "url": "https://www.zacks.com/stock/news/2983269/fjtsy-or-now-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2983269",
+        "age_hours": 20.6
+      },
+      {
+        "title": "Is it Too Late to Buy ServiceNow Stock?",
+        "published_utc": "2026-09-01T00:19:58Z",
+        "url": "https://www.fool.com/investing/2026/08/31/is-it-too-late-to-buy-servicenow-stock/?source=iedfolrf0000001",
+        "age_hours": 35.9
+      }
+    ],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 7.5,
+    "pivot": 140.3,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 2,
+    "reasons": [
+      "Two of three major timeframes align",
+      "Volume confirms participation",
+      "Price is on the correct side of session VWAP"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Sector fights the thesis",
+      "Price has not yet confirmed through the key pivot"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 140.3,
+    "aggressive_trigger": 140.4403,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 141.2803217857143,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 138.66313452420658,
+    "invalidation": 139.31668238134944,
+    "target_1r": 142.21746547579343,
+    "target_2r": 143.99463095158686,
+    "add_reference": 143.5677392857143,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 140.30"
+    },
+    "neutral": {
+      "probability_pct": 43.2,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 21.8,
+      "trigger": "Loses 139.32"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $140.30 with volume participation.",
+  "why": [
+    "Discovery channels: MINUTE_SPIKE_PROXY",
+    "Premarket participation: WATCH (114,741 shares)",
+    "PREMARKET same-time RVOL 0.8x",
+    "Recent 5m volume 3.6x normal",
+    "Weekly/Daily/4H: BULLISH/BULLISH/NEUTRAL",
+    "Recent catalyst: NEWS (NEUTRAL); reaction=UNCLEAR"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Sector fights the thesis",
+    "Price has not yet confirmed through the key pivot"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}

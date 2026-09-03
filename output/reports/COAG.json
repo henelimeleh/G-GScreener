@@ -1,0 +1,235 @@
+{
+  "ticker": "COAG",
+  "name": "Hemab Therapeutics Holdings, Inc. Common Stock",
+  "price": 46.81,
+  "market_cap": 2056267390.3400002,
+  "gap_pct": 6.338028169014076,
+  "direction": "LONG",
+  "setup": "GAP & GO LONG",
+  "state": "WATCH",
+  "score": 30.4,
+  "long_score": 30.4,
+  "short_score": 22.2,
+  "score_margin": 8.2,
+  "score_breakdown": {
+    "market": 3.8,
+    "sector": 7.5,
+    "technical": 10.0,
+    "volume": 0.0,
+    "relative_strength": 4.6,
+    "event_news": 2.0,
+    "livermore": 2.5
+  },
+  "data_completeness_pct": 90.0,
+  "data_as_of_et": "2026-09-02 04:04 ET",
+  "discovered_by": [
+    "GAP_UP"
+  ],
+  "pm_volume": 101.0,
+  "pm_volume_state": "LOW",
+  "runtime_rvol": null,
+  "runtime_rvol_session": "PREMARKET",
+  "recent_5m_rvol": null,
+  "vwap": 46.8119,
+  "distance_from_vwap_pct": -0.004058797015282778,
+  "pm_high": 46.81,
+  "pm_low": 46.81,
+  "prior_pm_high": null,
+  "prior_pm_low": null,
+  "atr14": 3.9053285714285706,
+  "market_context": {
+    "available": true,
+    "regime": "MIXED",
+    "spy": {
+      "historical_close": 761.78,
+      "close": 761.78,
+      "sma20": 769.2075,
+      "sma50": 754.7092,
+      "sma200": 710.6585,
+      "ema20": 765.0487975634575,
+      "atr14": 5.272657142857123,
+      "ret5": -0.5392278466138323,
+      "ret20": -1.2381211673343495,
+      "prior20_high": 779.37,
+      "prior20_low": 759.48,
+      "high52w": 779.37,
+      "low52w": 629.28,
+      "prev_high": 764.67,
+      "prev_low": 759.48,
+      "prev_close": 761.78
+    },
+    "qqq": {
+      "historical_close": 707.64,
+      "close": 707.64,
+      "sma20": 717.966,
+      "sma50": 710.9806,
+      "sma200": 656.0825500000001,
+      "ema20": 713.7707562747788,
+      "atr14": 8.397407142857146,
+      "ret5": -0.4333633498424194,
+      "ret20": -2.239414243282456,
+      "prior20_high": 734.58,
+      "prior20_low": 702.7,
+      "high52w": 748.65,
+      "low52w": 555.6,
+      "prev_high": 712.3,
+      "prev_low": 704.66,
+      "prev_close": 707.64
+    },
+    "bullishness": 0.375,
+    "spy_current_change_pct": -0.05119588332589283,
+    "qqq_current_change_pct": -0.24588773952857515,
+    "macro": "NOT_DIRECTLY_SCORED",
+    "note": "Price-based market regime only. Fed/CPI/yields require a separate macro source."
+  },
+  "sector_context": {
+    "name": "Health Care",
+    "available": true,
+    "etf": "XLV",
+    "trend": "BULLISH",
+    "ret5": -2.065149181356607,
+    "ret20": 5.903763109191851,
+    "vs_spy_5d": -1.5259213347427747,
+    "vs_spy_20d": 7.1418842765262,
+    "current_change_pct": 0.2737810916292881,
+    "current_vs_spy": 0.3249769749551809,
+    "metrics": {
+      "historical_close": 171.67,
+      "close": 171.67,
+      "sma20": 170.144,
+      "sma50": 164.59799999999998,
+      "sma200": 155.06795,
+      "ema20": 170.0196340926676,
+      "atr14": 2.6055285714285707,
+      "ret5": -2.065149181356607,
+      "ret20": 5.903763109191851,
+      "prior20_high": 176.595,
+      "prior20_low": 162.62,
+      "high52w": 176.595,
+      "low52w": 133.725,
+      "prev_high": 173.5252,
+      "prev_low": 171.03,
+      "prev_close": 171.67,
+      "trend": "BULLISH"
+    }
+  },
+  "technical": {
+    "weekly": {
+      "reference_close": 44.02,
+      "sma10": 45.58,
+      "sma30": null,
+      "trend": "BULLISH"
+    },
+    "daily": {
+      "historical_close": 44.02,
+      "close": 44.02,
+      "sma20": 50.0265,
+      "sma50": 44.3001,
+      "sma200": null,
+      "ema20": 48.10161143167814,
+      "atr14": 3.9053285714285706,
+      "ret5": -11.339375629405835,
+      "ret20": -5.374032674118656,
+      "prior20_high": 55.42,
+      "prior20_low": 43.08,
+      "high52w": 55.42,
+      "low52w": 23.0001,
+      "prev_high": 47.0,
+      "prev_low": 43.34,
+      "prev_close": 44.02,
+      "current_price": 46.81,
+      "trend": "NEUTRAL"
+    },
+    "four_hour": {
+      "close": 46.81,
+      "ema20": 46.48076383673747,
+      "sma50": 49.770990000000005,
+      "bar_definition": "4H blocks anchored at 04:00 ET, extended hours included",
+      "trend": "NEUTRAL"
+    }
+  },
+  "relative_strength": {
+    "current_vs_spy": 6.389224052339969,
+    "current_vs_sector": 6.064247077384788,
+    "stock_vs_spy_5d": -10.800147782792003,
+    "stock_vs_spy_20d": -4.135911506784306,
+    "stock_vs_sector_5d": -9.274226448049227,
+    "stock_vs_sector_20d": -11.277795783310506
+  },
+  "news": {
+    "available": true,
+    "catalyst": "NONE_FOUND",
+    "sentiment": "UNKNOWN",
+    "score": 0.0,
+    "confidence": "LOW",
+    "headlines": [],
+    "reaction": "UNCLEAR"
+  },
+  "livermore": {
+    "score": 2.5,
+    "pivot": 55.42,
+    "pivot_confirmed": false,
+    "progress_from_pivot_pct": null,
+    "timeframes_aligned": 1,
+    "reasons": [
+      "Sector confirms the thesis"
+    ],
+    "warnings": [
+      "Broad market fights the thesis",
+      "Price has not yet confirmed through the key pivot",
+      "Price is on the wrong side of session VWAP"
+    ],
+    "add_rule": "Only consider adding after favorable price progress / a new confirmed pivot; never average down into invalidation.",
+    "book_principle": "Wait for the market to prove the thesis; do not trade because a stock merely looks cheap or expensive."
+  },
+  "levels": {
+    "pivot": 55.42,
+    "aggressive_trigger": 55.47541999999999,
+    "aggressive_rule": "Break above pivot with participation; avoid entering if breakout immediately rejects.",
+    "conservative_trigger": 56.00579928571429,
+    "conservative_rule": "Prefer a 5m close above pivot followed by a hold/retest; the static level is a reference, not a blind buy price.",
+    "stop_reference": 47.71107857453528,
+    "invalidation": 48.10161143167814,
+    "target_1r": 63.23976142546471,
+    "target_2r": 71.00410285092943,
+    "add_reference": 57.372664285714286,
+    "add_rule": "Add only after favorable progress and renewed confirmation; never average down into invalidation.",
+    "do_not_trade_if": "Price loses invalidation, breakout fails, participation disappears, or price is materially extended from VWAP before entry."
+  },
+  "scenarios": {
+    "meta": {
+      "model": "HEURISTIC_NOT_CALIBRATED",
+      "note": "Scenario percentages are score-derived heuristics, not backtested probabilities."
+    },
+    "bullish": {
+      "probability_pct": 35,
+      "trigger": "Holds/clears 55.42"
+    },
+    "neutral": {
+      "probability_pct": 37.2,
+      "trigger": "Price remains around pivot/VWAP without follow-through"
+    },
+    "bearish": {
+      "probability_pct": 27.8,
+      "trigger": "Loses 48.10"
+    }
+  },
+  "next_trigger": "Wait for price confirmation above the pivot near $55.42 with volume participation.",
+  "why": [
+    "Gap Up +6.34% triggered discovery",
+    "Discovery channels: GAP_UP",
+    "Premarket participation: LOW (101 shares)",
+    "Weekly/Daily/4H: BULLISH/NEUTRAL/NEUTRAL"
+  ],
+  "risks": [
+    "Broad market fights the thesis",
+    "Price has not yet confirmed through the key pivot",
+    "Price is on the wrong side of session VWAP",
+    "Premarket volume is not yet strong (101; state=LOW)"
+  ],
+  "missing": [
+    "Direct macro inputs (Fed rate, CPI/inflation, Treasury yields) are not available from this Stocks-only data source.",
+    "Analyst consensus/estimate revisions and management guidance are not independently verified in V2.1.",
+    "Full financial statements are not scored because Massive Stocks Starter does not include the Financials & Ratios expansion."
+  ]
+}
